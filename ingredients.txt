@@ -1,0 +1,589 @@
+Name:
+Sesame Tofu
+
+Main Ingredients:
+Tofu: 1
+Snow peas: 4
+Ginger: 1
+
+Other Ingredients:
+Soy sauce: 5
+Seasame oil: 4 
+Honey: 2 
+Garlic: 3 
+Veggie broth: 0.75
+Sugar: 0.1875
+Cornstarch: 4 
+Rice vinegar: 1 
+Chili paste: 1 
+Rice: 3 
+Sesame seeds: 2 
+Coconut milk (rice): 1
+
+Name:
+Chimichangas
+
+Main Ingredients:
+Pepper: 2
+Onion: 1.5
+Jalapeno: 1
+Tomato: 2
+Cilantro: 1
+Sour cream: 0.5
+Flour tortillas: 1
+Monterey jack cheese: 1
+Beans: 1
+Green chiles: 2
+Veggie broth: 0.5
+
+Other Ingredients:
+Butter: 2
+Garlic: 3
+Chili powder: 1.5
+Cumin: 0.5
+Cinnamon: 0.25
+
+Name:
+Cody Sandwich
+
+Main Ingredients:
+Red pepper: 0.5
+Spinach: 0.25
+Provolone cheese: 0.25
+Mushrooms: 6
+Avocado: 0.5
+Bread: 0.25
+
+Other Ingredients:
+Garlic: 2
+
+Name:
+Grilled Cheese
+
+Main Ingredients:
+Guyere cheese: 0.5
+Cheddar cheese: 0.5
+Parmesan cheese: 0.25
+Bread: 0.25
+
+Other Ingredients:
+
+Name:
+Tomato soup
+
+Main Ingredients:
+Cheddar cheese: 1
+Tomato: 4
+Garlic: 2
+Onion: 1
+Veggie broth: 1
+Fire roasted tomatoes: 28
+French bread: 1
+
+Other Ingredients:
+Oregano: 2
+
+Name:
+Butternut squash soup
+
+Main ingredients:
+Butternut squash: 1
+Onion: 1
+Veggie broth: 3
+
+Other Ingredients:
+Nutmeg: 2
+
+Name:
+Guacamole
+
+Main Ingredients:
+Onion: 0.5
+Avocado: 3
+Tomato: 2
+Jalapeno: 1
+Lime: 1
+Garlic: 3
+Tortilla chips: 1
+
+Other Ingredients:
+Salt: 0.5
+Cumin: 0.5
+Cayanne pepper: 0.5
+
+Name:
+Quesadilla
+
+Main Ingredients:
+Pepper: 0.5
+Onion: 0.5
+Lime: 1
+Cilantro: 0.25
+Beans: 1
+
+Other Ingredients:
+Corn: 0.25
+Sour cream: 0.25
+Flour tortillas: 0.25
+Mexican cheese: 0.25
+
+Name:
+French toast
+
+Main Ingredients:
+Bread: 0.5
+Strawberries: 1
+
+Other Ingredients:
+Syrup: 0.1
+
+Name:
+Guyere risotto
+
+Main Ingredients:
+Onion: 1
+Mascarpone cheese: 0.3
+Gruyere cheese: 1
+Veggie broth: 1.5
+Mushrooms: 15
+Asparagus: 1
+Chives: 1
+Parsley: 0.5
+Majoram: 0.5
+
+Other Ingredients:
+Arborio Rice: 1
+Butter: 4
+White wine: 0.5
+
+Name:
+Parmesan risotto
+
+Main Ingredients:
+Onion: 1
+Parmesan cheese: 0.5
+Mushrooms: 15
+Asparagus: 1
+Veggie broth: 1.5
+
+Other Ingredients:
+Arborio Rice: 1
+White wine: 0.5
+
+Name:
+Spaghetti and meatballs
+
+Main Ingredients:
+Red pepper: 1
+Crushed tomatoes: 28
+Basil: 1
+Parsley: 1
+Ricotta cheese: 0.25
+Parmesan cheese: 0.25
+Ground fake italian meat: 1
+
+Other Ingredients:
+Garlic: 5
+Egg: 1
+Bread crumbs: 0.5
+Pasta: 0.5
+
+Name:
+Macaroni and cheese
+
+Main Ingredients:
+Gruyere cheese: 1
+Pasta: 1
+Cheddar cheese: 1
+
+Other Ingredients:
+Butter: 4
+Milk: 0.1
+
+Name:
+Calzone
+
+Main Ingredients:
+Provolone cheese: 0.5
+Pepper: 0.5
+Onion: 0.5
+Ground fake italian meat: 0.5
+Parsley: 0.5
+
+Other Ingredients:
+Egg: 1
+Mozzarella cheese: 0.25
+
+Name:
+Zucchini boats
+
+Main Ingredients:
+Zucchini: 4
+Ground fake italian meat: 1
+Onion: 1
+Tomato: 2
+Parsley: 0.25
+
+Other Ingredients:
+Garlic: 3
+Parmesan cheese: 0.25
+Mozzarella cheese: 0.1
+
+Name:
+Pizza
+
+Main Ingredients:
+Pepper: 0.5
+Onion: 0.5
+Mascarpone cheese: 0.75
+Basil: 0.25
+Tomato sauce: 8
+Mozarrela cheese: 0.5
+
+Other Ingredients:
+Garlic: 3
+Flour: 3
+
+Name:
+Spaghetti squash and potatoes
+
+Main Ingredients:
+Spaghetti squash: 1
+Cream: 2
+Potato: 2
+
+Other Ingredients:
+Butter: 4
+Garlic: 2
+Thyme: 0.1
+Parmesan cheese: 0.5
+
+Name:
+Stuffed pasta
+
+Main Ingredients:
+Onion: 1
+Crushed tomatoes: 28
+Parsley: 0.5
+Pasta shells: 0.5
+Ricotta cheese: 1
+Basil: 0.5
+Mint: 0.25
+
+Other Ingredients:
+Garlic: 3
+Red wine: 0.5
+Eggs: 2
+Mozzarella cheese: 0.25
+Parmesan cheese: 0.5
+
+Name:
+Taco pie
+
+Main Ingredients:
+Soyrizo: 1
+Dough sheet: 1
+Pepper: 0.5
+Onion: 0.5
+Tomato: 1
+
+Other Ingredients:
+Mexican cheese: 0.25
+Tortilla chips: 0.25
+Sour cream: 0.25
+
+Name:
+Coconut tofu curry
+
+Main Ingredients:
+Ginger: 2
+Pepper: 1
+Zuchinni: 1
+Potato: 1
+Onion: 1
+Coconut milk: 2
+Tofu: 1
+
+Other Ingredients:
+Garlic: 3
+Rice: 2
+Coconut milk (rice): 1
+
+Name:
+Coconut Chick'n curry
+
+Main Ingredients:
+Ginger: 2
+Pepper: 1
+Zuchinni: 1
+Potato: 1
+Onion: 1
+Coconut milk: 2
+Not chicken: 1
+
+Other Ingredients:
+Garlic: 3
+Rice: 2
+Coconut milk (rice): 1
+
+Name:
+Butter paneer
+
+Main Ingredients:
+Paneer: 2
+Tomato: 6
+Naan: 2
+Ginger: 3
+Onion: 1
+Cream: 1
+
+Other Ingredients:
+Garlic: 15
+
+Name:
+Colonel Cheryl's mushrooms
+
+Main Ingredients:
+Mushrooms: 20
+Spinach: 1
+Egg noodles: 1
+Cream: 1
+
+Other Ingredients:
+Garlic: 4
+Butter: 4
+Veggie broth: 0.5
+Parmesan cheese: 0.25
+
+Name:
+Veggie pot pie
+
+Main Ingredients:
+Majoram: 0.25
+Onion: 0.5
+Carrot: 2
+Mushrooms: 20
+Potato: 1
+Parsley: 0.25
+Chives: 1
+
+Other Ingredients:
+Shortening: 1
+Butter: 1
+Veggie broth: 0.5
+Frozen peas: 0.25
+White wine vinegar: 1
+
+Name:
+Southwest salad
+
+Main Ingredients:
+Sweet potato: 2
+Beans: 1
+Romain: 1
+Avocado: 1
+Green yogurt: 1
+Cilantro: 0.5
+Lime: 1
+Tortilla strips: 0.25
+
+Other Ingredients:
+Corn: 0.25
+Garlic: 2
+
+Name:
+Cornbread
+
+Main Ingredients:
+Chives: 1
+Jalapeno: 1
+Cheddar cheese: 1
+
+Other Ingredients:
+Cornmeal: 0.5
+Egg: 2
+Butter: 8
+
+Name: 
+Mango Tofu
+
+Main Ingredients:
+Onion: 1.5
+Ginger: 5
+Mango: 3
+Basil: 0.25
+Lime: 1
+Tofu: 1
+
+Other Ingredients:
+Rice: 2
+Coconut milk (rice): 1
+Garlic: 10
+
+Name:
+Fajitas
+
+Main Ingredients:
+Pepper: 1
+Onion: 1
+Lime: 0.5
+Cilantro: 0.25
+
+Other Ingredients:
+Sour cream: 0.25
+Mexican cheese: 0.25
+Flour tortillas: 0.5
+
+Name:
+Mushroom marsala
+
+Main Ingredients:
+Onion: 1
+Mushrooms: 20
+Zucchini: 1
+Cherry tomatoes: 0.25
+Cream: 1
+
+Other Ingredients:
+Marsala wine: 0.1
+Veggie broth: 0.5
+Linguine pasta: 0.5
+
+Name:
+Bratwurst
+
+Main Ingredients:
+Fake brats: 1
+Pepper: 0.5
+Onion: 0.5
+Provolone cheese: 0.25
+Bread: 0.25
+Potato: 2
+
+Other Ingredients:
+Mexican cheese: 0.25
+
+Name:
+Pasta primavera
+
+Main Ingredients:
+Pepper: 1
+Mushrooms: 10
+Zucchini: 1
+Summer squash: 1
+Onion: 0.5
+Cream: 0.5
+Parmesan: 0.25
+Frozen peas: 0.25
+Asparagus: 1
+
+Other Ingredients:
+Pasta: 0.5
+Garlic: 4
+Veggie broth: 0.5
+
+Name:
+Kristen bowls
+
+Main Ingredients:
+Fake sausage links: 1
+Not chicken: 1
+Pepper: 2
+Poblano pepper: 2
+Onion: 1
+Parsley: 0.25
+
+Other Ingredients:
+White wine: 0.1
+Garlic: 3
+Veggie broth: 0.5
+Pickled cherry peppers: 0.1
+
+Name:
+Bun Tofu
+
+Main Ingredients:
+Tofu: 1
+Lime: 2
+Rice noodles: 1
+Carrot: 2
+Pepper: 1
+Cucumber: 1
+Basil: 1
+Mint: 1
+Cilantro: 1
+Lettuce: 0.5
+
+Other Ingredients:
+Rice vinegar: 4
+Brown sugar: 4
+Soy sauce: 4
+Garlic: 1
+Maggi seasoning: 0.1
+Peanuts: 0.1
+Peanut oil: 1
+Seasame oil: 3
+
+Name:
+White corn chili
+
+Main Ingredients:
+Potato: 2
+Onion: 1
+Green chilis: 2
+Sour cream: 0.25
+Cream: 1
+
+Other Ingredients:
+Veggie broth: 0.5
+Frozen corn: 0.25
+
+Name:
+Cody salad
+
+Main Ingredients:
+Spinach: 1
+Feta cheese: 1
+
+Other Ingredients:
+Slivered almonds: 0.25
+Dried cranberries: 0.25
+White wine vinegar: 0.1
+Apple cider vinegar: 0.1
+Vegetable oil: 0.1
+
+Name:
+Nachos
+
+Main Ingredients:
+Tomatillos: 2
+Beans: 1
+Scallions: 0.5
+Jalapeno: 1
+Cilantro: 0.5
+Pepper: 1
+Onion: 1
+Tortilla chips: 1
+Pepper jack cheese: 2
+
+Other Ingredients:
+Corn: 0.25
+Garlic: 2
+White wine vinegar: 0.25
+Vegetable oil: 0.1
+Butter: 0.1
+Milk: 2
+Sour cream: 0.1
+
+Name:
+Chick'n marsala
+
+Main Ingredients:
+Not chicken: 1
+Mushrooms: 20
+Parsley: 0.5
+Veggie broth: 0.25
+Potato: 2
+
+Other Ingredients:
+Marsala wine: 0.1
