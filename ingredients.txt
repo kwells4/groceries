@@ -31,7 +31,7 @@ Tomato: 2
 Cilantro: 1
 Sour cream: 0.5
 Flour tortillas: 1
-Monterey jack cheese: 1
+Pepper jack cheese: 1
 Beans: 1
 Green chiles: 2
 Veggie broth: 0.5
@@ -135,7 +135,7 @@ Bread: 0.5
 Strawberries: 1
 
 Other Ingredients:
-Syrup: 0.1
+Maple syrup: 5
 
 Name:
 Guyere risotto
@@ -382,7 +382,7 @@ Sweet potato: 2
 Beans: 1
 Romain: 1
 Avocado: 1
-Greek yogurt: 1
+Green yogurt: 1
 Cilantro: 0.5
 Lime: 1
 Tortilla strips: 0.25
@@ -564,7 +564,7 @@ Cilantro: 0.5
 Pepper: 1
 Onion: 1
 Tortilla chips: 1
-Pepper jack cheese: 2
+Pepper jack cheese: 1.5
 
 Other Ingredients:
 Corn: 0.25
@@ -618,3 +618,33 @@ Honey: 0.1
 Red wine vinegar: 0.1
 Olive oil: 0.1
 Pistachios: 0.1
+
+Name:
+Tofu Burgers
+
+Main Ingredients:
+Tofu: 1
+Buns: 1
+Lemon: 1
+
+Other Ingredients:
+Soy sauce: 2
+Olive oil: 0.1
+Maple syrup: 2
+Garlic: 2
+
+Name:
+Tortellini Salad
+
+Main Ingredients:
+Tortellini: 1
+Cherry tomatoes: 1
+Red pepper: 1
+Scallions: 1
+Basil: 0.5
+Tomato: 2
+Artichoke hearts: 1
+
+Other Ingredients:
+Red wine vinegar: 2
+Olive oil: 2

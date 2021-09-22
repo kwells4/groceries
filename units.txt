@@ -30,7 +30,7 @@ Crushed tomatoes: oz
 Tomato sauce: oz
 Flour: cups
 Cream: cups
-Red wine: cups
+Red wine vinegar: tbs
 White wine: cups
 Ricotta cheese: 15oz container
 White vinegar: tbs
@@ -38,3 +38,4 @@ Cornmeal: cups
 Brown sugar: tbs
 Peanut oil: tbs
 Greek yogurt: cups
+Maple syrup: tbs
