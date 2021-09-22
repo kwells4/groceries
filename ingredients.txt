@@ -382,7 +382,7 @@ Sweet potato: 2
 Beans: 1
 Romain: 1
 Avocado: 1
-Green yogurt: 1
+Greek yogurt: 1
 Cilantro: 0.5
 Lime: 1
 Tortilla strips: 0.25
@@ -587,3 +587,34 @@ Potato: 2
 
 Other Ingredients:
 Marsala wine: 0.1
+
+Name:
+Tacos
+
+Main Ingredients:
+Soyrizo: 1
+Cilantro: 0.25
+Pepper: 0.5
+Onion: 0.5
+Lime: 0.5
+
+Other Ingredients:
+Sour cream: 0.25
+Mexican cheese: 0.25
+Flour tortillas: 0.5
+
+Name:
+Peach Salad
+
+Main Ingredients:
+Peach: 2
+Lemon: 2
+Mint: 0.25
+Lettuce: 0.5
+Greek yogurt: 1
+
+Other Ingredients:
+Honey: 0.1
+Red wine vinegar: 0.1
+Olive oil: 0.1
+Pistachios: 0.1
