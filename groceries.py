@@ -1,5 +1,7 @@
 from collections import defaultdict
 import weakref
+from collections import Counter
+import re
 
 
 import weakref
@@ -92,9 +94,20 @@ other_food = other_food.split(", ")
 
 user_meals = user_meals.split(", ")
 
-user_meals = [i.capitalize() for i in user_meals]
+user_meals = Counter(user_meals)
 
-not_present = [i for i in user_meals if i not in meal_list]
+new_dict = {}
+for i in user_meals.keys():
+    if ":" in i:
+        new_name = re.sub(":.*", "", i)
+        new_val = re.sub(".*:", "", i)
+        new_dict[new_name] = float(new_val)
+    else:
+        new_dict[i] = user_meals[i]
+
+new_dict = {i.capitalize():k for (i,k) in new_dict.items()}
+
+not_present = [i for i in new_dict.keys() if i not in meal_list]
 
 if len(not_present) >= 1:
 	print("!!!!! Unknown meals !!!!!")
@@ -107,11 +120,11 @@ user_main_ingredients = defaultdict(int)
 user_other_ingredients = defaultdict(int)
 
 for obj in Meal.getinstances():
-	if obj.name in user_meals:
+	if obj.name in new_dict.keys():
 		for item in obj.ingredients:
-			user_main_ingredients[item] += obj.ingredients[item]
+			user_main_ingredients[item] += obj.ingredients[item]*new_dict[obj.name]
 		for other_item in obj.other_ingredients:
-			user_other_ingredients[other_item] += obj.other_ingredients[other_item]
+			user_other_ingredients[other_item] += obj.other_ingredients[other_item]*new_dict[obj.name]
 
 for obj in other_food:
 	if ":" in obj:
