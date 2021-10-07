@@ -648,3 +648,38 @@ Artichoke hearts: 1
 Other Ingredients:
 Red wine vinegar: 2
 Olive oil: 2
+
+Name:
+Pumpkin curry
+
+Main Ingredients:
+Zucchini: 1
+Pepper: 1
+Lemon: 1
+Coconut milk: 2
+Tofu: 1
+Serrano pepper: 1
+Onion: 1
+Acorn squash: 1
+
+Other Ingredients:
+Garlic: 2
+Maple syrup: 2
+Tumeric: 0.25
+Red curry: 1
+Salt: 0.1
+Basil: 1
+Rice: 2
+
+Name:
+Salsa
+
+Main Ingredients:
+Green chilis: 4
+Tomato: 4
+Onion: 1
+Cilantro: 0.25
+Lime: 1
+
+Other Ingredients:
+Garlic: 4
