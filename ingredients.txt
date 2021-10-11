@@ -675,11 +675,14 @@ Name:
 Salsa
 
 Main Ingredients:
-Green chilis: 4
-Tomato: 4
+Green chilis: 2
+Tomato: 7
 Onion: 1
 Cilantro: 0.25
 Lime: 1
+Tomatillos: 4
 
 Other Ingredients:
 Garlic: 4
+Cumin: 0.1
+Cinnamon: 0.1
