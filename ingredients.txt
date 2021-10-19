@@ -686,3 +686,88 @@ Other Ingredients:
 Garlic: 4
 Cumin: 0.1
 Cinnamon: 0.1
+
+Name:
+Pesto
+
+Main Ingredients:
+Basil: 2
+Pine nuts: 0.25
+Parmesan cheese: 1
+Pepper: 1
+Onion: 1
+Zucchini: 1
+
+Other Ingredients:
+Garlic: 2
+Olive oil: 0.1
+
+Name:
+Cheesecake
+
+Main Ingredients:
+Raspberries: 2
+Graham crackers: 0.5
+Cream cheese: 2
+Sour cream: 1
+Lemon: 1
+
+Other Ingredients:
+Eggs: 3
+Cinnamon: 0.5
+Sugar: 2
+Vanilla: 0.1
+
+Name:
+Brownies
+
+Main Ingredients:
+Butter: 0.5
+Chocolate chips: 16
+
+Other Ingredients:
+Eggs: 3
+Sugar: 2
+Baking powder: 0.1
+Salt: 0.1
+
+Name:
+Strawberry ice cream
+
+Main Ingredients:
+Frozen strawberries: 3
+Lemon: 2
+Whole milk: 1
+Heavy cream: 2 
+
+Other Ingredients:
+Sugar: 2
+Vanilla: 0.1
+
+Name:
+Helen
+
+Main Ingredients:
+Lime: 2
+Diet coke: 1
+Rum: 1
+
+Other Ingredients:
+English muffins: 1
+
+Name:
+Hailey
+
+Main Ingredients:
+Almond milk: 1
+Cereal: 1
+
+Other Ingredients:
+
+Name:
+Jim
+
+Main Ingredients:
+Mountain dew: 1
+
+Other Ingredients:
