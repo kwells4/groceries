@@ -626,6 +626,8 @@ Main Ingredients:
 Tofu: 1
 Buns: 1
 Lemon: 1
+Tomato: 2
+Lettuce: 0.1
 
 Other Ingredients:
 Soy sauce: 2
@@ -701,6 +703,23 @@ Zucchini: 1
 Other Ingredients:
 Garlic: 2
 Olive oil: 0.1
+Pasta: 0.5
+
+Name:
+Breakfast burrito
+
+Main Ingredients:
+Flour tortillas: 1
+Green Chilies: 4
+Onion: 1.5
+Pepper: 1
+Ground fake italian meat: 1
+Potato: 1
+Cilantro: 0.25
+
+Other Ingredients:
+Eggs: 6
+Mexican cheese: 0.25
 
 Name:
 Cheesecake
