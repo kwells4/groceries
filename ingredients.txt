@@ -133,6 +133,7 @@ French toast
 Main Ingredients:
 Bread: 0.5
 Strawberries: 1
+Milk: 0.25
 
 Other Ingredients:
 Maple syrup: 5
@@ -373,6 +374,7 @@ Butter: 1
 Veggie broth: 0.5
 Frozen peas: 0.25
 White wine vinegar: 1
+Milk: 1
 
 Name:
 Southwest salad
@@ -398,6 +400,7 @@ Main Ingredients:
 Chives: 1
 Jalapeno: 1
 Cheddar cheese: 1
+Milk: 1
 
 Other Ingredients:
 Cornmeal: 0.5
@@ -565,6 +568,7 @@ Pepper: 1
 Onion: 1
 Tortilla chips: 1
 Pepper jack cheese: 1.5
+Milk: 1
 
 Other Ingredients:
 Corn: 0.25
@@ -572,7 +576,6 @@ Garlic: 2
 White wine vinegar: 0.25
 Vegetable oil: 0.1
 Butter: 0.1
-Milk: 2
 Sour cream: 0.1
 
 Name:
@@ -716,9 +719,24 @@ Pepper: 1
 Ground fake italian meat: 1
 Potato: 1
 Cilantro: 0.25
+Milk: 0.25
 
 Other Ingredients:
 Eggs: 6
+Mexican cheese: 0.25
+
+Name:
+Omelette
+
+Main Ingredients:
+Green Chilies: 2
+Onion: 0.5
+Pepper: 0.5
+Ground fake italian meat: 0.5
+Milk: 0.25
+
+Other Ingredients:
+Eggs: 3
 Mexican cheese: 0.25
 
 Name:
