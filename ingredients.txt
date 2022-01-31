@@ -709,6 +709,27 @@ Olive oil: 0.1
 Pasta: 0.5
 
 Name:
+Mcaloo tikki sandwich
+
+Main Ingredients:
+Jalapeno: 1
+Frozen Peas: 0.25
+Onion: 0.5
+Tomato: 2
+Cilantro: 0.5
+Buns: 4
+Potato: 1
+
+Other Ingredients:
+Garlic: 2
+Corriander seeds: 2
+Cumin seeds: 2
+Tumeric: 1
+Mayonnaise: 0.25
+Ketchup: 0.25
+Vegitable oil: 0.25
+
+Name:
 Breakfast burrito
 
 Main Ingredients:
