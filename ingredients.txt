@@ -30,7 +30,7 @@ Jalapeno: 1
 Tomato: 2
 Cilantro: 1
 Sour cream: 0.5
-Flour tortillas: 1
+Flour tortillas (large): 1
 Pepper jack cheese: 1
 Beans: 1
 Green chiles: 2
@@ -109,7 +109,7 @@ Tortilla chips: 1
 Other Ingredients:
 Salt: 0.5
 Cumin: 0.5
-Cayanne pepper: 0.5
+Cayenne pepper: 0.5
 
 Name:
 Quesadilla
@@ -124,7 +124,7 @@ Beans: 1
 Other Ingredients:
 Corn: 0.25
 Sour cream: 0.25
-Flour tortillas: 0.25
+Flour tortillas (large): 0.25
 Mexican cheese: 0.25
 
 Name:
@@ -435,7 +435,7 @@ Cilantro: 0.25
 Other Ingredients:
 Sour cream: 0.25
 Mexican cheese: 0.25
-Flour tortillas: 0.5
+Flour tortillas (small): 0.5
 
 Name:
 Mushroom marsala
@@ -604,7 +604,7 @@ Lime: 0.5
 Other Ingredients:
 Sour cream: 0.25
 Mexican cheese: 0.25
-Flour tortillas: 0.5
+Flour tortillas (small): 0.5
 
 Name:
 Peach Salad
@@ -713,6 +713,7 @@ Mcaloo tikki sandwich
 
 Main Ingredients:
 Jalapeno: 1
+Ginger: 1
 Frozen Peas: 0.25
 Onion: 0.5
 Tomato: 2
@@ -730,10 +731,31 @@ Ketchup: 0.25
 Vegitable oil: 0.25
 
 Name:
+Vegetarian Encheladas
+
+Main Ingredients:
+Onion: 0.5
+Tomato sauce: 15
+Spinach: 1
+Black beans: 1
+Cheddar cheese: 0.5
+Pepper jack cheese: 0.5
+Scallions: 0.5
+Flour tortillas (large): 1
+Lime: 1
+
+Other Ingredients:
+Garlic: 2
+Chili Powder: 2
+Cumin: 1
+Cayenne pepper: 1
+Sour cream: 0.25
+
+Name:
 Breakfast burrito
 
 Main Ingredients:
-Flour tortillas: 1
+Flour tortillas (small): 1
 Green Chilies: 4
 Onion: 1.5
 Pepper: 1
