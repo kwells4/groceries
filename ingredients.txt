@@ -105,6 +105,7 @@ Jalapeno: 1
 Lime: 1
 Garlic: 3
 Tortilla chips: 1
+Cilantro: 0.25
 
 Other Ingredients:
 Salt: 0.5
@@ -185,7 +186,7 @@ Ground fake italian meat: 1
 
 Other Ingredients:
 Garlic: 5
-Egg: 1
+Eggs: 1
 Bread crumbs: 0.5
 Pasta: 0.5
 
@@ -208,11 +209,10 @@ Main Ingredients:
 Provolone cheese: 0.5
 Pepper: 0.5
 Onion: 0.5
-Ground fake italian meat: 0.5
 Parsley: 0.5
 
 Other Ingredients:
-Egg: 1
+Eggs: 1
 Mozzarella cheese: 0.25
 
 Name:
@@ -404,7 +404,7 @@ Milk: 1
 
 Other Ingredients:
 Cornmeal: 0.5
-Egg: 2
+Eggs: 2
 Butter: 8
 
 Name: 
@@ -561,7 +561,7 @@ Nachos
 Main Ingredients:
 Tomatillos: 2
 Beans: 1
-Scallions: 0.5
+Chives: 0.5
 Jalapeno: 1
 Cilantro: 0.5
 Pepper: 1
@@ -645,7 +645,7 @@ Main Ingredients:
 Tortellini: 1
 Cherry tomatoes: 1
 Red pepper: 1
-Scallions: 1
+Chives: 1
 Basil: 0.5
 Tomato: 2
 Artichoke hearts: 1
@@ -740,7 +740,7 @@ Spinach: 1
 Black beans: 1
 Cheddar cheese: 0.5
 Pepper jack cheese: 0.5
-Scallions: 0.5
+Chives: 0.5
 Flour tortillas (large): 1
 Lime: 1
 
@@ -760,7 +760,6 @@ Green Chilies: 4
 Onion: 1.5
 Pepper: 1
 Ground fake italian meat: 1
-Potato: 1
 Cilantro: 0.25
 Milk: 0.25
 
@@ -818,11 +817,12 @@ Main Ingredients:
 Frozen strawberries: 3
 Lemon: 2
 Whole milk: 1
-Heavy cream: 2 
+Heavy cream: 2
 
 Other Ingredients:
 Sugar: 2
 Vanilla: 0.1
+Baking chocolate: 0.5
 
 Name:
 Helen
