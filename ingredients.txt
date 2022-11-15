@@ -86,7 +86,7 @@ Oregano: 2
 Name:
 Butternut squash soup
 
-Main ingredients:
+Main Ingredients:
 Butternut squash: 1
 Onion: 1
 Veggie broth: 3
@@ -332,11 +332,14 @@ Butter paneer
 
 Main Ingredients:
 Paneer: 2
-Tomato: 6
+Tomato: 7
 Naan: 2
 Ginger: 3
-Onion: 1
+Onion: 1.5
 Cream: 1
+Lemon: 1
+Mint: 1
+Cucumber: 1
 
 Other Ingredients:
 Garlic: 15
@@ -611,7 +614,7 @@ Peach Salad
 
 Main Ingredients:
 Peach: 2
-Lemon: 2
+Lemon: 1
 Mint: 0.25
 Lettuce: 0.5
 Greek yogurt: 1
@@ -752,6 +755,40 @@ Cayenne pepper: 1
 Sour cream: 0.25
 
 Name:
+Cody burrito
+
+Main Ingredients:
+Potato: 1
+Green Chilies: 4
+Pepper: 1
+Onion: 2
+Black beans: 1
+Cilantro: 0.5
+Flour tortillas (large): 1
+
+Other Ingredients:
+Garlic: 4
+Veggie broth: 1
+
+Name:
+Vegetarian chili verde
+
+Main Ingredients:
+Onion: 1
+Potato: 1
+Sweet potato: 1
+Tomatillos: 8
+Poblano pepper: 2
+Hominy: 28
+Green Chilies: 2
+
+Other Ingredients:
+Garlic: 4
+Oregano: 0.1
+Flour: 0.1
+Veggie broth: 1
+
+Name:
 Breakfast burrito
 
 Main Ingredients:
@@ -801,14 +838,17 @@ Name:
 Brownies
 
 Main Ingredients:
-Butter: 0.5
+Butter: 16
 Chocolate chips: 16
+Unsweetened chocolate: 3
 
 Other Ingredients:
 Eggs: 3
 Sugar: 2
 Baking powder: 0.1
 Salt: 0.1
+Vanilla: 1
+Flour: 0.1
 
 Name:
 Strawberry ice cream
