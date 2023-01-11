@@ -74,7 +74,6 @@ Tomato soup
 Main Ingredients:
 Cheddar cheese: 1
 Tomato: 4
-Garlic: 2
 Onion: 1
 Veggie broth: 1
 Fire roasted tomatoes: 28
@@ -82,6 +81,7 @@ French bread: 1
 
 Other Ingredients:
 Oregano: 2
+Garlic: 2
 
 Name:
 Butternut squash soup
@@ -103,7 +103,6 @@ Avocado: 3
 Tomato: 2
 Jalapeno: 1
 Lime: 1
-Garlic: 3
 Tortilla chips: 1
 Cilantro: 0.25
 
@@ -111,6 +110,7 @@ Other Ingredients:
 Salt: 0.5
 Cumin: 0.5
 Cayenne pepper: 0.5
+Garlic: 3
 
 Name:
 Quesadilla
@@ -135,6 +135,7 @@ Main Ingredients:
 Bread: 0.5
 Strawberries: 1
 Milk: 0.25
+Eggs: 3
 
 Other Ingredients:
 Maple syrup: 5
@@ -239,11 +240,11 @@ Onion: 0.5
 Mascarpone cheese: 0.75
 Basil: 0.25
 Tomato sauce: 8
-Mozarrela cheese: 0.5
 
 Other Ingredients:
 Garlic: 3
 Flour: 3
+Mozzarella cheese: 0.5
 
 Name:
 Spaghetti squash and potatoes
@@ -299,7 +300,7 @@ Coconut tofu curry
 Main Ingredients:
 Ginger: 2
 Pepper: 1
-Zuchinni: 1
+Zucchini: 1
 Potato: 1
 Onion: 1
 Coconut milk: 2
@@ -316,7 +317,7 @@ Coconut Chick'n curry
 Main Ingredients:
 Ginger: 2
 Pepper: 1
-Zuchinni: 1
+Zucchini: 1
 Potato: 1
 Onion: 1
 Coconut milk: 2
@@ -787,6 +788,28 @@ Garlic: 4
 Oregano: 0.1
 Flour: 0.1
 Veggie broth: 1
+
+
+Name:
+Baked ziti
+
+Main Ingredients:
+Onion: 1
+Ground fake italian meat: 1
+Crushed tomatoes: 28
+Parsley: 0.5
+Canned whole tomatoes: 28
+Penne pasta: 1
+Ricotta cheese: 1
+
+Other Ingredients:
+Garlic: 3
+Oregano: 0.1
+Basil: 0.1
+Salt: 0.1
+Mozzarella cheese: 0.5
+Parmesan cheese: 0.5
+Eggs: 2
 
 Name:
 Breakfast burrito

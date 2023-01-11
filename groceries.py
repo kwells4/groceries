@@ -85,7 +85,7 @@ for obj in Meal.getinstances():
 # Get list of meals from user:
 user_meals = input("Enter meals separated by a comma to see all options, type 'options': ") 
 if user_meals == "options" or user_meals == "Options":
-	print(meal_list)
+	print(sorted(meal_list))
 	user_meals = input("Enter meals separated by a comma: ")
 
 other_food = input("Enter other food to add to list (like Milk, breakfast fruit): ")
