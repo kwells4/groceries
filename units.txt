@@ -1,6 +1,6 @@
 Ginger: Tbs
 Soy sauce: Tbs
-Seasame oil: tsp
+Sesame oil: tsp
 Honey: tsp
 Canola oil: tsp
 Garlic: cloves
@@ -49,4 +49,4 @@ Tumeric: tsp
 Unsweetened chocolate: oz
 Vanilla: Tbs
 Hominy: oz
-Canned whole tomatoes: oz
+Canned diced tomatoes: oz

@@ -8,7 +8,7 @@ Ginger: 1
 
 Other Ingredients:
 Soy sauce: 5
-Seasame oil: 4 
+Sesame oil: 4 
 Honey: 2 
 Garlic: 3 
 Veggie broth: 0.75
@@ -34,7 +34,6 @@ Flour tortillas (large): 1
 Pepper jack cheese: 1
 Beans: 1
 Green chiles: 2
-Veggie broth: 0.5
 
 Other Ingredients:
 Butter: 2
@@ -42,6 +41,7 @@ Garlic: 3
 Chili powder: 1.5
 Cumin: 0.5
 Cinnamon: 0.25
+Veggie broth: 0.5
 
 Name:
 Cody Sandwich
@@ -75,13 +75,13 @@ Main Ingredients:
 Cheddar cheese: 1
 Tomato: 4
 Onion: 1
-Veggie broth: 1
 Fire roasted tomatoes: 28
 French bread: 1
 
 Other Ingredients:
 Oregano: 2
 Garlic: 2
+Veggie broth: 1
 
 Name:
 Butternut squash soup
@@ -89,10 +89,10 @@ Butternut squash soup
 Main Ingredients:
 Butternut squash: 1
 Onion: 1
-Veggie broth: 3
 
 Other Ingredients:
 Nutmeg: 2
+Veggie broth: 3
 
 Name:
 Guacamole
@@ -121,10 +121,10 @@ Onion: 0.5
 Lime: 1
 Cilantro: 0.25
 Beans: 1
+Sour cream: 0.25
 
 Other Ingredients:
 Corn: 0.25
-Sour cream: 0.25
 Flour tortillas (large): 0.25
 Mexican cheese: 0.25
 
@@ -135,10 +135,10 @@ Main Ingredients:
 Bread: 0.5
 Strawberries: 1
 Milk: 0.25
-Eggs: 3
 
 Other Ingredients:
 Maple syrup: 5
+Eggs: 3
 
 Name:
 Guyere risotto
@@ -147,7 +147,6 @@ Main Ingredients:
 Onion: 1
 Mascarpone cheese: 0.3
 Gruyere cheese: 1
-Veggie broth: 1.5
 Mushrooms: 15
 Asparagus: 1
 Chives: 1
@@ -158,6 +157,7 @@ Other Ingredients:
 Arborio Rice: 1
 Butter: 4
 White wine: 0.5
+Veggie broth: 1.5
 
 Name:
 Parmesan risotto
@@ -167,11 +167,11 @@ Onion: 1
 Parmesan cheese: 0.5
 Mushrooms: 15
 Asparagus: 1
-Veggie broth: 1.5
 
 Other Ingredients:
 Arborio Rice: 1
 White wine: 0.5
+Veggie broth: 1.5
 
 Name:
 Spaghetti and meatballs
@@ -288,11 +288,11 @@ Dough sheet: 1
 Pepper: 0.5
 Onion: 0.5
 Tomato: 1
+Sour cream: 0.25
 
 Other Ingredients:
 Mexican cheese: 0.25
 Tortilla chips: 0.25
-Sour cream: 0.25
 
 Name:
 Coconut tofu curry
@@ -435,9 +435,9 @@ Pepper: 1
 Onion: 1
 Lime: 0.5
 Cilantro: 0.25
+Sour cream: 0.25
 
 Other Ingredients:
-Sour cream: 0.25
 Mexican cheese: 0.25
 Flour tortillas (small): 0.5
 
@@ -573,6 +573,7 @@ Onion: 1
 Tortilla chips: 1
 Pepper jack cheese: 1.5
 Milk: 1
+Sour cream: 0.1
 
 Other Ingredients:
 Corn: 0.25
@@ -580,7 +581,6 @@ Garlic: 2
 White wine vinegar: 0.25
 Vegetable oil: 0.1
 Butter: 0.1
-Sour cream: 0.1
 
 Name:
 Chick'n marsala
@@ -589,11 +589,11 @@ Main Ingredients:
 Not chicken: 1
 Mushrooms: 20
 Parsley: 0.5
-Veggie broth: 0.25
 Potato: 2
 
 Other Ingredients:
 Marsala wine: 0.1
+Veggie broth: 0.25
 
 Name:
 Tacos
@@ -604,9 +604,9 @@ Cilantro: 0.25
 Pepper: 0.5
 Onion: 0.5
 Lime: 0.5
+Sour cream: 0.25
 
 Other Ingredients:
-Sour cream: 0.25
 Mexican cheese: 0.25
 Flour tortillas (small): 0.5
 
@@ -747,13 +747,13 @@ Pepper jack cheese: 0.5
 Chives: 0.5
 Flour tortillas (large): 1
 Lime: 1
+Sour cream: 0.25
 
 Other Ingredients:
 Garlic: 2
 Chili Powder: 2
 Cumin: 1
 Cayenne pepper: 1
-Sour cream: 0.25
 
 Name:
 Cody burrito
@@ -797,7 +797,7 @@ Onion: 1
 Ground fake italian meat: 1
 Crushed tomatoes: 28
 Parsley: 0.5
-Canned whole tomatoes: 28
+Canned diced tomatoes: 28
 Penne pasta: 1
 Ricotta cheese: 1
 
@@ -809,6 +809,29 @@ Salt: 0.1
 Mozzarella cheese: 0.5
 Parmesan cheese: 0.5
 Eggs: 2
+
+Name:
+Pad thai
+
+Main Ingredients:
+Flat rice noodles: 1
+Lime: 2
+Tofu: 1
+Onion: 0.5
+Pepper: 1
+Chives: 0.5
+Cilantro: 0.5
+Carrot: 1
+Ginger: 2
+
+Other Ingredients:
+Rice vinegar: 1
+Brown sugar: 2
+Soy sauce: 0.1
+Eggs: 1
+Chili jam or red pepper jelly: 0.1
+Sesame oil: 0.1
+Garlic: 3
 
 Name:
 Breakfast burrito
