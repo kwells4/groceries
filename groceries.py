@@ -2,9 +2,7 @@ from collections import defaultdict
 import weakref
 from collections import Counter
 import re
-
-
-import weakref
+import sys
 
 # Path to all meals
 meal_path = "ingredients.txt"
@@ -45,27 +43,38 @@ with open(meal_path, "r") as meal_file:
 	ingredients = False
 	other_ingredients = False
 	for line in meal_file:
+
+		# Make a new meal instance
 		if line.strip() == "Name:":
 			new_meal = True
 			ingredients = False
 			other_ingredients = False
 			name = next(meal_file).strip().capitalize()
+
 			main_ingredients_dict = {}
 			other_ingredients_dict = {}
 			ingredients_dict = {}
+
+		# Add main ingredients
 		elif line.strip() == "Main Ingredients:":
 			ingredients = True
 			new_meal = False
 			other_ingredients = False
+
+		# Add other ingredients
 		elif line.strip() == "Other Ingredients:":
 			ingredients = False
 			other_ingredients = True
-			new_meal = False			
+			new_meal = False	
+
+		# Add to dictionary of ingredients		
 		elif ingredients and line.strip() == "":
 			ingredients_dict["Ingredients"] = main_ingredients_dict
 		elif ingredients:
 			item, ammount = line.strip().split(": ")
 			main_ingredients_dict[item] = float(ammount)
+
+		# Generate a meal instance
 		elif other_ingredients and line.strip() == "":
 			ingredients_dict["other_ingredients"] = other_ingredients_dict
 			new_meal = Meal(name, main_ingredients_dict, other_ingredients_dict)
@@ -74,7 +83,10 @@ with open(meal_path, "r") as meal_file:
 			item, ammount = line.strip().split(": ")
 			other_ingredients_dict[item] = float(ammount)
 
+# Generate the final meal
 new_meal = Meal(name, main_ingredients_dict, other_ingredients_dict)
+
+# Add the final meal to the list
 meals.append(new_meal)
 
 meal_list = []
@@ -82,20 +94,48 @@ meal_list = []
 for obj in Meal.getinstances():
 	meal_list.append(obj.name) 
 
+# Pull out pizza meals, if the user supplies "pizza", then prompt to ask
+# what kind of pizza
+pizza_meals = [meal.name for meal in meals if 'pizza' in meal.name]
+
+# Remove those meals and just put "pizza" for the meal names displayed to the user
+not_pizza_meals = [meal.name for meal in meals if "pizza" not in meal.name]
+not_pizza_meals.append("Pizza")
+
 # Get list of meals from user:
 user_meals = input("Enter meals separated by a comma to see all options, type 'options': ") 
 if user_meals == "options" or user_meals == "Options":
-	print(sorted(meal_list))
+	print(sorted(not_pizza_meals))
 	user_meals = input("Enter meals separated by a comma: ")
 
+# Get list of other food from user
 other_food = input("Enter other food to add to list (like Milk, breakfast fruit): ")
 
 other_food = other_food.split(", ")
 
 user_meals = user_meals.split(", ")
 
+# Check for pizza, remove and replace with the correct type of pizza
+if "Pizza" in user_meals:
+    user_meals.remove("Pizza")
+
+    # Pull out new meals
+    pizza_types = input("What type of pizza would you like? Enter names separated by a comma. \n\
+    	To see all options type 'options': ")
+
+    if pizza_types == "options" or pizza_types == "Options":
+        print(sorted(pizza_meals))
+        pizza_types = input("Enter pizza names separated by a comma: ")
+
+    pizza_types = pizza_types.split(", ")
+
+    # Add pizza meals to the full list
+    user_meals.extend(pizza_types)
+
+# Count if any meal was added more than once
 user_meals = Counter(user_meals)
 
+# Check if any meal is used twice, here that will look like meal: 2
 new_dict = {}
 for i in user_meals.keys():
     if ":" in i:
@@ -105,16 +145,19 @@ for i in user_meals.keys():
     else:
         new_dict[i] = user_meals[i]
 
+# Capitalize the first letter to match case with the meals
 new_dict = {i.capitalize():k for (i,k) in new_dict.items()}
 
+# Check if any meals are not present in the list
 not_present = [i for i in new_dict.keys() if i not in meal_list]
 
+# If any meals aren't present, exit the program
 if len(not_present) >= 1:
 	print("!!!!! Unknown meals !!!!!")
 	for i in not_present:
 		print(i + " is not in the known meal list")
-	print("")
-	print("")
+	sys.exit()
+
 
 user_main_ingredients = defaultdict(int)
 user_other_ingredients = defaultdict(int)
