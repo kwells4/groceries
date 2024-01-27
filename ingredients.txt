@@ -371,7 +371,7 @@ Butter paneer
 
 Main Ingredients:
 Paneer: 2
-Tomato: 7
+Tomato: 8
 Naan: 2
 Ginger: 3
 Onion: 1.5
@@ -382,6 +382,36 @@ Cucumber: 1
 
 Other Ingredients:
 Garlic: 15
+Garam masala: 0.1
+
+Name:
+Malai Kofta
+
+Main Ingredients:
+Paneer: 1
+Tomato: 5
+Naan: 2
+Ginger: 1
+Onion: 2.5
+Indian green chili: 2
+Potato: 2
+Cream: 1
+Lemon: 1
+Mint: 1
+Cucumber: 1
+Cashews: 0.1
+Cilantro: 0.25
+
+Other Ingredients:
+Garlic: 4
+Chili powder: 0.1
+Garam masala: 0.1
+Cornmeal: 0.1
+Bay leaf: 0.1
+Cardamom: 0.1
+Cloves: 0.1
+Tumeric: 0.1
+Kasuri methi: 0.1
 
 Name:
 Colonel Cheryl's mushrooms
@@ -610,6 +640,20 @@ Dried cranberries: 0.25
 White wine vinegar: 0.1
 Apple cider vinegar: 0.1
 Vegetable oil: 0.1
+
+Name:
+Aunt barb salad
+
+Main Ingredients:
+Arugula: 1
+Strawberries: 1
+Shallot: 1
+Candied pecans: 0.25
+
+Other Ingredients:
+Orange olive oil: 0.1
+Pomagranite vinegar: 0.1
+Honey: 0.1
 
 Name:
 Nachos

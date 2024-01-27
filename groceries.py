@@ -124,7 +124,7 @@ def get_user_meals(pizza_meals, not_pizza_meals):
 	user_meals = user_meals.split(", ")
 
 	# Check for pizza, remove and replace with the correct type of pizza
-	if "Pizza" in user_meals:
+	if "Pizza" in user_meals or "pizza" in user_meals:
 	    user_meals.remove("Pizza")
 
 	    # Pull out new meals
