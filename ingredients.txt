@@ -944,7 +944,7 @@ Eggs: 6
 Mexican cheese: 0.25
 
 Name:
-Huevos rancehros
+Huevos rancheros
 
 Main Ingredients:
 Tomato: 2
