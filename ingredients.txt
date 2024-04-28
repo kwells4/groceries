@@ -383,6 +383,7 @@ Cucumber: 1
 Other Ingredients:
 Garlic: 15
 Garam masala: 0.1
+Rice: 0.1
 
 Name:
 Malai Kofta
@@ -412,6 +413,72 @@ Cardamom: 0.1
 Cloves: 0.1
 Tumeric: 0.1
 Kasuri methi: 0.1
+Rice: 0.1
+
+Name:
+Paneer vindaloo
+
+Main Ingredients:
+Paneer: 2
+Onion: 1
+Tomato: 2
+Lemon: 1
+
+Other Ingredients:
+Cooriander: 0.1
+Cumin: 0.1
+Kashmiri chili powder: 0.1
+Cinnamin: 0.1
+Cloves: 0.1
+Cardamom: 0.1
+Tumeric: 0.1
+Mustard: 0.5
+Coconut oil: 0.1
+Garlic: 5
+Rice: 0.1
+
+Name:
+Corn pakora
+
+Main Ingredients:
+Cilantro: 1
+Ginger: 1.5
+Lemon: 1
+Dates: 0.5
+Indian green chili: 2
+Chives: 0.1
+
+Other Ingredients:
+Cumin: 0.1
+Garlic: 1
+Tamarind paste: 0.1
+Kashmiri chili powder: 0.1
+Fennel: 0.1
+Corriander: 0.1
+Jaggery: 0.1
+Ghee: 0.1
+Chickpea flour: 0.1
+Flour: 0.1
+Cornmeal: 0.1
+Baking powder: 0.1
+Tumeric: 0.1
+Sugar: 0.1
+Cumin seeds: 0.1
+Mustard seeds: 0.1
+
+Name:
+Naan
+
+Main Ingredients:
+Greek yogurt: 0.1
+
+Other Ingredients:
+Yeast: 0.1
+Sugar: 0.1
+Flour: 0.1
+Baking powder: 0.1
+Olive oil: 0.1
+Garlic: 4
 
 Name:
 Colonel Cheryl's mushrooms
@@ -564,7 +631,7 @@ Main Ingredients:
 Fake sausage links: 1
 Not chicken: 1
 Pepper: 2
-Poblano pepper: 2
+Anaheim pepper: 2
 Onion: 1
 Parsley: 0.25
 
@@ -928,6 +995,24 @@ Garlic: 3
 Peanut butter: 0.25
 
 Name:
+Hailey rice
+
+Main Ingredients:
+Pepper: 1
+Anaheim pepper: 1
+Cauliflower: 1
+Chickpeas: 1
+Fire roasted tomatoes: 16
+Parsley: 0.5
+Cilantro: 0.5
+Onion: 1
+
+Other Ingredients:
+Garlic: 3
+Harissa spread: 0.1
+Veggie broth: 1.5
+
+Name:
 Breakfast burrito
 
 Main Ingredients:
@@ -1018,6 +1103,18 @@ Other Ingredients:
 Sugar: 2
 Vanilla: 0.1
 Baking chocolate: 0.5
+
+Name:
+Coconut ladoo
+
+Main Ingredients:
+Sweetened coconut flakes: 2
+Coconut milk: 1
+Cashews: 0.5
+
+Other Ingredients:
+Cardamom: 0.1
+Jaggery: 0.1
 
 Name:
 Apple cider

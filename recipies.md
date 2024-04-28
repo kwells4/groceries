@@ -1,0 +1,467 @@
+# Quesadilla
+1/2 pepper, 1/2 onion for one dinner
+
+# Fajitas
+1 pepper 1 onion for 1 dinner. Spices: ginger, garlic, oregano, cumin, salt
+
+# Mac n cheese
+make half batch
+
+# Calzone
+1/2 pepper 1/2 onion
+
+# Chicken sausage peppers
+2 colored pepper 2 poblano pepper 
+
+# Chimichangas
+1 onion 2 peppers
+
+# Taco pie
+1/2 pepper 
+1/2 onion 
+
+# Southwest salad
+double dressing, use full lime in dressing. Double spices and olive oil for potatoes. Keep salad and dressing separate for leftovers. 
+
+# Coconut tofu curry
+## Sauce
+fresh ginger (1-2 Tbs) 1 pepper 1 zucchini 1/2 onion 2 cans coconut milk
+Tamarind paste 1 Tbs vinegar 1 Tbs brown sugar 
+Add garlic and ginger with the onion
+3 Tbs curry
+Maggi seasoning 
+## Tofu
+1Tbs sesame oil
+1 Tbs soy sauce
+Corn starch
+Bake at 410 degrees 25 minutes 
+
+# Meatball sauce
+1 red pepper, 1 onion, basil, 28oz crushed tomatoes 
+
+# Mango tofu
+## Ingredients
+1.5 onion
+ginger (1/8 cup + 1Tbs) 
+garlic (1/2 cup) 
+3 mango
+2tsp chili
+fresh basil
+1 lime
+some salt
+## Directions
+Sauté 1 copped onion with 1/4 cup garlic and 1 Tbs ginger. Blend with 2 mangos. Add juice of 1 lime and chili paste and 2 basil leaves. 
+For tofu: sauté 1/8 cup ginger and 1/4 cup garlic. When soft, sprinkle with dried basil, chili and cinnamon. Add 1Tbs pomegranate juice. Brown tofu. When browned coat with spice mixture. 
+Lightly sauté strips of 1/2 onion. Add fresh basil, tofu, sautéed onion and strips from 1 mango to the sauce. 
+
+# Corn chili
+2 potatoes
+2 cups broth 
+
+# Peach lettuce salad 
+https://www.loveandlemons.com/peach-salad-mint-pistachios/
+https://www.eatingwell.com/recipe/251174/green-salad-with-peaches-feta-mint-vinaigrette/
+
+# Nachos 
+1 pepper
+1 onion
+
+#  Butter paneer
+## Paneer
+1 tsp gram masala
+1 tsp tikka masala
+1/4 c garlic
+1/8 c ginger
+
+## Sauce
+2 Tbs ginger 
+2 Tbs garlic
+3 Tbs gram masala 
+3Tbs tikka masala 
+
+## Salad
+1/2 onion
+1 cucumber 
+2 tomatoes 
+1 lemon
+Salt
+Mint
+
+# Kristen bowls 
+2 green chilies 
+2 peppers
+1 onion
+Double sauce 
+1/4 cup flour 
+
+# Breakfast burritos 
+1 onion
+1 pepper
+1 sausage
+6 eggs 
+1/2 onion and green chili for sauce
+
+# Burrata appetizers 
+Spinach 
+Burrata
+Crusty bread 
+Balsamic 
+Tomato jam
+Cherry tomatoes 
+
+# Baked ziti
+## Marinara sauce
+- Crushed tomatoes 28oz
+- 1 onion
+- Garlic
+- Wine
+- Impossible sausage
+- Whole tomatoes 28oz
+- Garlic
+- Oregano
+- Basil
+- Parsley 
+Full recipe 
+
+# Cody burritos 
+1 potato
+1 onion
+1 pepper
+2 green chilies
+Black beans
+Pepper Jack cheese
+Top with green chili 
+Bake 10 min @350
+
+# Pad Thai
+## Tofu 
+2 peppers
+1 onion
+Carrot
+Cilantro
+Scallions
+## Sauce 
+Tamarind paste 2 Tbs vinegar 2 Tbs brown sugar 
+2 lime
+Magi seasoning a few drops
+Siracha 2 Tbs
+3 garlic
+Crazy Richards 1/2 cup
+Garnish
+Lime wedge 
+
+# Salsa
+2 Green chilis
+7 Tomatos
+1 Onion
+1 Lime
+4 tomatillos 
+4 cloves garlic
+0.5 bunch cilantro
+Cumin 1/2 tsp
+
+Roast Garlic, onion, tomatillos and tomatos under broiler. Roast garlic in skin. 
+
+
+# Southwest Salad
+## Dressing
+1/4 cup lime juice
+2 Garlic cloves
+1 bunch cilantro
+1/2 tsp salt
+1/2 tsp cumin
+1/4 tsp Chipotle
+2 tsp Maple Syrup
+1/4 cup Olive oil
+1 avocado
+
+Add all except olive oil and avocado. Slowly add oil. Add avocado at end
+
+## Salad
+Lettuce
+Jalapeño
+Corn
+Beans
+Tomatos
+Tortilla strips
+Avocado
+Parmesan cheese
+
+
+# Broccoli and carrots 
+1 head broccoli 
+2 carrots
+
+Cut into small pieces, spread on baking sheet, drizzle with olive oil salt pepper. Cook 15 minutes at 425
+
+# Red chili
+28oz crushed tomatoes
+16oz fire roasted tomatoes
+28oz chili beans
+1 package soyrizo
+
+Cook 4 hours in crock pot, add plant crumbles 1 hour before end (or just cook on stove top…)
+
+# Brownies
+1/2 batch
+375 degrees, 20 + 20 minutes 
+
+# Roasted garlic
+1 hour at 350
+Cut off top, drizzle with olive oil 
+
+# Aunt barb salad
+Arugula 
+Strawberries 
+1/2 diced shallot
+Candied pecans 
+3 tbs orange olive oil 
+3 tbs pomegranate vinegar
+1.5 tbs honey
+
+# Malai Kofta
+https://sandhyahariharan.co.uk/baked-malai-kofta-curry/
+
+## Gravy
+2 Onions
+4 cloves garlic
+2 chilies - take out contacts before cutting
+1 inch ginger
+1 cup water
+
+Boil 10-15 minutes, then blend after slightly cooling
+
+3 tomatos - Puree
+
+3 cloves
+5 cardamom
+1 bay leaf
+1 cinnamon stick
+
+Roast in 2 tbs butter and 1 tbs olive oil
+
+Carefully add the onion blend + salt (spits a lot and can boil fast). Cook for a few minutes
+Add in tomato, 1/2 tsp turmeric, 1 tsp red chili, 1 tsp coriander powder, 2 tsp garam masala
+
+Add in 1 tsp Kasuri Methi and some cream
+
+Garnish with cilantro
+
+## Kofta
+1 block paneer
+2 large potatoes - Grate with small grater
+Double the spices
+Add a little more salt
+
+Cook 15 minutes per side 400-450
+
+# Cornbread 
+Half batch
+Bake at 400 degrees for 45 minutes 
+
+# Hailey rice
+
+## Ingredients
+1 pepper
+1 onion
+1 Anaheim chili
+Cauliflower
+Parsley
+Cilantro
+Garlic
+1.5 cubes not chicken bouillon
+Adobo seasoning
+Chickpeas 
+3 Tbs Harissa spread 
+Fire roasted tomatoes 8 oz
+
+## Adobo seasoning
+2 Tbs salt
+1 Tbs paprika
+2 tsp black pepper
+1.5 tsp onion powder
+1.5 tsp oregano
+1.5 tsp cumin
+1 tsp garlic powder
+1 tsp chili powder
+
+## Sauce
+Cut pepper, onion, chili. Add to pan with olive oil and sautéed until soft
+Cut cauliflower and place on baking sheet. Drizzle with salt, pepper, and olive oil and bake at 425 for 15 minutes
+Combine cauliflower with other vegetables and add minced garlic and parsley. Cook a few minutes.
+Add chickpeas (rinsed), fire roasted tomatoes, and Harissa spread. Cook down for a couple of minutes.
+
+## Rice
+Mix 1.5 cubes bouillon with 2.5 cups water and add to rice to cook
+Add 0.5 tsp adobo seasoning to each bowl
+
+Top rice with sauce, a few spoonfuls of sour cream and coarsely chopped cilantro and serve
+
+# Paneer vindaloo
+
+## Paneer
+
+### Marinade
+12 oz paneer, cubed (or 14 oz canned chickpeas, drained)
+● 1/2 Tablespoon(s) ground coriander
+● 1/2 Tablespoon(s) ground cumin
+● 1/2 Tablespoon(s) Kashmiri chili powder
+● 1/4 Teaspoon(s) ground cinnamon
+● 1/4 Teaspoon(s) ground cloves
+● 1/4 Teaspoon(s) ground cardamom
+● 1/4 Teaspoon(s) ground black pepper
+● 1/4 Teaspoon(s) ground turmeric
+● 1/2 Teaspoon(s) ground mustard seed
+● 2 Teaspoon(s)--1.5 Tablespoon(s) white vinegar (start with the lower amount)
+● 1 Teaspoon(s) salt
+
+### Vindaloo 
+● 1 Tablespoon(s) coconut oil
+● 1 ea yellow onion, diced
+● 4-5 cloves garlic, chopped
+● 1 Teaspoon(s) ginger, grated
+● 1-3 ea Thai chilies (optional)
+● 2 ea Campari tomatoes, pureed
+● to taste salt
+● to taste sugar
+● to taste lemon juice
+
+### Directions
+1. Measure all marinade spices into a bowl.
+2. Add spices to a hot pan over medium heat.
+3. While mixing, toast spices until fragrant and smoking very slightly (10-15 seconds).
+4. Transfer spices back to bowl, then mix in vinegar and salt to create a paste.
+5. Add paste into the diced paneer. Stir to thoroughly coat all pieces. Cover paneer and
+place in the fridge for 1-4 hours.
+6. In a rondeau or large sauté pan, melt coconut oil over medium heat. Add in onions,
+then sauté until medium-brown.
+7. Add garlic, ginger, the optional chilies, pureed tomatoes, and panner to the pan
+(keep the paneer container). Stir a small amount of water in the paneer container to
+collect all the leftover spices. Add to the pan.
+8. Cook vindaloo on medium-low heat for at least 30 minutes, adding water as needed.
+9. Adjust seasoning with salt, sugar, and lemon juice or extra white vinegar as needed.
+If a thinner vindaloo base is preferred, thin out sauce with water
+
+## Basmati rice
+● 1 cup basmati rice
+● 1.75 cups water
+
+### Directions
+7. Rinse rice until the water runs clear and is no longer starchy.
+8. Add rice and water to a rice cooker.
+9. Cook on the normal rice setting.
+10. Once it is done, Lightly fold and fluff with a rice paddle.
+
+## Coriander Chutney
+● 1 Cup(s) cilantro, chopped
+● 1/2 Teaspoon(s) cumin
+● 1/2 Teaspoon(s) fresh ginger, grated
+● 1/2 Teaspoon(s) garlic, grated
+● to taste lemon or lime juice
+● to taste sugar
+● to taste salt
+● as needed water for blending
+
+### Directions
+1. Using a food processor or a stick blender, pulse all ingredients. Adjust flavors with
+lemon or lime juice, salt, and sugar.
+
+## Tamarind Chutney
+● 1/8 Cup(s) tamarind concentrate OR ¼ Cup(s) tamarind paste
+● 1/4 Teaspoon(s) Kashmiri chili powder
+● 1/4 Cup(s) dates, chopped
+● 1/2 Teaspoon(s) fennel seeds
+● 1/2 Teaspoon(s) cumin seeds
+● 1/2 Teaspoon(s) coriander powder
+● 1/2 Teaspoon(s) fresh ginger, grated
+● 2 Tablespoon(s) jaggery
+● 1/2 Teaspoon(s) vegetable oil or ghee
+● to taste lemon juice
+● to taste salt
+● as needed water
+
+### Directions
+Directions
+1. In a small pot, cook ingredients (except water and lemon juice) on medium-low for 3
+minutes, stirring constantly.
+2. Puree with water until smooth, then adjust flavors with salt and lemon juice as
+needed.
+
+## Garlic Naan
+● 1 Teaspoon(s) active yeast
+● 1 Teaspoon(s) white sugar
+● 3/4 Cup(s) warm water (100-110 degrees F)
+● 2 Cup(s) all purpose flour
+● 1 Teaspoon(s) salt
+● 3/4 Teaspoon(s) baking powder
+● 3 Tablespoon(s) Greek yogurt (can be subbed out for plain coconut yogurt)
+● 2 Tablespoon(s) olive oil
+● 3-4 cloves garlic, minced
+● extra butter or olive oil
+
+### Directions
+1. In a small bowl, combine yeast and sugar, then pour in warm water and swirl. Let sit
+for about 10 minutes (or until frothy). Meanwhile, combine flour, salt, and baking
+powder in a medium-sized bowl.
+2. Once the yeast is activated, mix in the yogurt and oil. Add wet ingredients to dry
+ingredients and mix just until combined. Knead on a floured surface 5-6 times. Place
+in an oiled bowl and cover with a damp towel, then allow to rise for 2-4 hours.
+3. Remove dough from bowl and knead on floured surface for about 30 seconds.
+Divide into 6 equal sections, and roll into balls. Allow balls to rest for 10 minutes
+(covered).
+4. Stretch each dough ball into an oval, then place on a floured surface to avoid
+sticking.
+5. Before cooking, sprinkle with garlic and dab with water. In a cast iron, place the wet
+side down and cook on each side until there are brown/black spots. Brush with olive oil or butter before serving.
+
+## Corn Pakora
+● 1/8 Cup(s) chickpea flour
+● 1/3 Cup(s) all purpose flour
+● 1/2 Cup(s) cornmeal
+● 1 Teaspoon(s) salt
+● 1/4 Teaspoon(s) baking powder
+● 1/4 Teaspoon(s) turmeric
+● 1/4 tsp white sugar
+● 1 1/2 Cup(s) fresh corn kernels
+● 2 Tablespoon(s) ghee
+● 1/2 Teaspoon(s) fennel seeds
+● 1/2 Teaspoon(s) cumin seeds
+● 1/2 Teaspoon(s) mustard seeds
+● 1/2-2 ea green thai chile
+● 1/4 Cup(s) cilantro, chopped
+● 1/4 Cup(s) scallions, chopped
+● 1/2 Tablespoon(s) ginger, grated
+
+### Directions
+1. Combine flours, cornmeal, salt, baking powder, turmeric, and sugar in a bowl.
+2. Pulse corn in a food processor until all kernels are broken up, then add to dry
+ingredients and mix.
+3. In a small pot, combine ghee, fennel seeds, cumin seeds, and mustard seeds. Heat
+on medium until seeds start to pop, then pour over and mix into dry ingredients. Add
+remaining ingredients, then mix till thoroughly combined.
+4. Deep-frying: Fill a cast iron pan with 1 inch of oil. Oil is ready for frying once it
+reaches 360 degrees F, or oil starts to ripple. Drop about 3 tbsp of mixture into oil for
+each pakora. Do not overcrowd the pan. Flip pakoras once the bottom side is over
+golden brown, then cook until the color is the same all around. Place on a wire rack
+to keep crisp.
+5. Air-frying: Roll the pakora mixture into 1- 1½ inch balls. Spray with (or roll in) oil and
+air fry at 390 degrees F for about 20 minutes (flipping a little over halfway through
+cooking time).
+
+# Coconut ladoo
+● 2 Cup(s) sweetened coconut flakes
+● 1 can coconut milk
+● 1 Teaspoon(s) cardamom powder
+● 1/4 Cup(s) jaggery or sugar of choice
+● pinch salt
+● 1/2 Cup(s) unsalted nuts of choice, toasted
+
+## Directions
+1. In a food processor, pulse coconut until the flakes are small shreds.
+2. Add 1 ½ c coconut to a skillet and toast over medium heat, stirring occasionally, until
+about half or more are golden brown.
+3. Add in coconut milk, cardamom, jaggery, and salt then cook for about 8-10 minutes,
+or until the moisture is evaporated/absorbed (except for the fat from the coconut
+milk). Cool to room temperature, then transfer mixture to the fridge for at least 1
+hour.
+4. Add in toasted nuts. Roll into balls, then roll/coat in remaining coconut shreds.
