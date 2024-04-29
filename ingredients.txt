@@ -423,6 +423,7 @@ Paneer: 2
 Onion: 1
 Tomato: 2
 Lemon: 1
+Ginger: 1
 
 Other Ingredients:
 Cooriander: 0.1
