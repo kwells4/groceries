@@ -303,28 +303,28 @@ Top rice with sauce, a few spoonfuls of sour cream and coarsely chopped cilantro
 
 ### Marinade
 12 oz paneer, cubed (or 14 oz canned chickpeas, drained)
-● 1/2 Tablespoon(s) ground coriander
-● 1/2 Tablespoon(s) ground cumin
-● 1/2 Tablespoon(s) Kashmiri chili powder
-● 1/4 Teaspoon(s) ground cinnamon
-● 1/4 Teaspoon(s) ground cloves
-● 1/4 Teaspoon(s) ground cardamom
-● 1/4 Teaspoon(s) ground black pepper
-● 1/4 Teaspoon(s) ground turmeric
-● 1/2 Teaspoon(s) ground mustard seed
-● 2 Teaspoon(s)--1.5 Tablespoon(s) white vinegar (start with the lower amount)
-● 1 Teaspoon(s) salt
+* 1/2 Tablespoon(s) ground coriander
+* 1/2 Tablespoon(s) ground cumin
+* 1/2 Tablespoon(s) Kashmiri chili powder
+* 1/4 Teaspoon(s) ground cinnamon
+* 1/4 Teaspoon(s) ground cloves
+* 1/4 Teaspoon(s) ground cardamom
+* 1/4 Teaspoon(s) ground black pepper
+* 1/4 Teaspoon(s) ground turmeric
+* 1/2 Teaspoon(s) ground mustard seed
+* 2 Teaspoon(s)--1.5 Tablespoon(s) white vinegar (start with the lower amount)
+* 1 Teaspoon(s) salt
 
 ### Vindaloo 
-● 1 Tablespoon(s) coconut oil
-● 1 ea yellow onion, diced
-● 4-5 cloves garlic, chopped
-● 1 Teaspoon(s) ginger, grated
-● 1-3 ea Thai chilies (optional)
-● 2 ea Campari tomatoes, pureed
-● to taste salt
-● to taste sugar
-● to taste lemon juice
+* 1 Tablespoon(s) coconut oil
+* 1 ea yellow onion, diced
+* 4-5 cloves garlic, chopped
+* 1 Teaspoon(s) ginger, grated
+* 1-3 ea Thai chilies (optional)
+* 2 ea Campari tomatoes, pureed
+* to taste salt
+* to taste sugar
+* to taste lemon juice
 
 ### Directions
 1. Measure all marinade spices into a bowl.
@@ -343,8 +343,8 @@ collect all the leftover spices. Add to the pan.
 If a thinner vindaloo base is preferred, thin out sauce with water
 
 ## Basmati rice
-● 1 cup basmati rice
-● 1.75 cups water
+* 1 cup basmati ric
+* 1.75 cups water
 
 ### Directions
 7. Rinse rice until the water runs clear and is no longer starchy.
@@ -353,32 +353,32 @@ If a thinner vindaloo base is preferred, thin out sauce with water
 10. Once it is done, Lightly fold and fluff with a rice paddle.
 
 ## Coriander Chutney
-● 1 Cup(s) cilantro, chopped
-● 1/2 Teaspoon(s) cumin
-● 1/2 Teaspoon(s) fresh ginger, grated
-● 1/2 Teaspoon(s) garlic, grated
-● to taste lemon or lime juice
-● to taste sugar
-● to taste salt
-● as needed water for blending
+* 1 Cup(s) cilantro, chopped
+* 1/2 Teaspoon(s) cumin
+* 1/2 Teaspoon(s) fresh ginger, grated
+* 1/2 Teaspoon(s) garlic, grated
+* to taste lemon or lime juice
+* to taste sugar
+* to taste salt
+* as needed water for blending
 
 ### Directions
 1. Using a food processor or a stick blender, pulse all ingredients. Adjust flavors with
 lemon or lime juice, salt, and sugar.
 
 ## Tamarind Chutney
-● 1/8 Cup(s) tamarind concentrate OR ¼ Cup(s) tamarind paste
-● 1/4 Teaspoon(s) Kashmiri chili powder
-● 1/4 Cup(s) dates, chopped
-● 1/2 Teaspoon(s) fennel seeds
-● 1/2 Teaspoon(s) cumin seeds
-● 1/2 Teaspoon(s) coriander powder
-● 1/2 Teaspoon(s) fresh ginger, grated
-● 2 Tablespoon(s) jaggery
-● 1/2 Teaspoon(s) vegetable oil or ghee
-● to taste lemon juice
-● to taste salt
-● as needed water
+* 1/8 Cup(s) tamarind concentrate OR ¼ Cup(s) tamarind past
+* 1/4 Teaspoon(s) Kashmiri chili powder
+* 1/4 Cup(s) dates, chopped
+* 1/2 Teaspoon(s) fennel seeds
+* 1/2 Teaspoon(s) cumin seeds
+* 1/2 Teaspoon(s) coriander powder
+* 1/2 Teaspoon(s) fresh ginger, grated
+* 2 Tablespoon(s) jaggery
+* 1/2 Teaspoon(s) vegetable oil or ghee
+* to taste lemon juice
+* to taste salt
+* as needed water
 
 ### Directions
 Directions
@@ -388,16 +388,16 @@ minutes, stirring constantly.
 needed.
 
 ## Garlic Naan
-● 1 Teaspoon(s) active yeast
-● 1 Teaspoon(s) white sugar
-● 3/4 Cup(s) warm water (100-110 degrees F)
-● 2 Cup(s) all purpose flour
-● 1 Teaspoon(s) salt
-● 3/4 Teaspoon(s) baking powder
-● 3 Tablespoon(s) Greek yogurt (can be subbed out for plain coconut yogurt)
-● 2 Tablespoon(s) olive oil
-● 3-4 cloves garlic, minced
-● extra butter or olive oil
+* 1 Teaspoon(s) active yeas
+* 1 Teaspoon(s) white sugar
+* 3/4 Cup(s) warm water (100-110 degrees F)
+* 2 Cup(s) all purpose flour
+* 1 Teaspoon(s) salt
+* 3/4 Teaspoon(s) baking powder
+* 3 Tablespoon(s) Greek yogurt (can be subbed out for plain coconut yogurt)
+* 2 Tablespoon(s) olive oil
+* 3-4 cloves garlic, minced
+* extra butter or olive oil
 
 ### Directions
 1. In a small bowl, combine yeast and sugar, then pour in warm water and swirl. Let sit
@@ -415,22 +415,22 @@ sticking.
 side down and cook on each side until there are brown/black spots. Brush with olive oil or butter before serving.
 
 ## Corn Pakora
-● 1/8 Cup(s) chickpea flour
-● 1/3 Cup(s) all purpose flour
-● 1/2 Cup(s) cornmeal
-● 1 Teaspoon(s) salt
-● 1/4 Teaspoon(s) baking powder
-● 1/4 Teaspoon(s) turmeric
-● 1/4 tsp white sugar
-● 1 1/2 Cup(s) fresh corn kernels
-● 2 Tablespoon(s) ghee
-● 1/2 Teaspoon(s) fennel seeds
-● 1/2 Teaspoon(s) cumin seeds
-● 1/2 Teaspoon(s) mustard seeds
-● 1/2-2 ea green thai chile
-● 1/4 Cup(s) cilantro, chopped
-● 1/4 Cup(s) scallions, chopped
-● 1/2 Tablespoon(s) ginger, grated
+* 1/8 Cup(s) chickpea flour
+* 1/3 Cup(s) all purpose flour
+* 1/2 Cup(s) cornmeal
+* 1 Teaspoon(s) salt
+* 1/4 Teaspoon(s) baking powder
+* 1/4 Teaspoon(s) turmeric
+* 1/4 tsp white sugar
+* 1 1/2 Cup(s) fresh corn kernels
+* 2 Tablespoon(s) ghee
+* 1/2 Teaspoon(s) fennel seeds
+* 1/2 Teaspoon(s) cumin seeds
+* 1/2 Teaspoon(s) mustard seeds
+* 1/2-2 ea green thai chile
+* 1/4 Cup(s) cilantro, chopped
+* 1/4 Cup(s) scallions, chopped
+* 1/2 Tablespoon(s) ginger, grated
 
 ### Directions
 1. Combine flours, cornmeal, salt, baking powder, turmeric, and sugar in a bowl.
@@ -449,12 +449,12 @@ air fry at 390 degrees F for about 20 minutes (flipping a little over halfway th
 cooking time).
 
 # Coconut ladoo
-● 2 Cup(s) sweetened coconut flakes
-● 1 can coconut milk
-● 1 Teaspoon(s) cardamom powder
-● 1/4 Cup(s) jaggery or sugar of choice
-● pinch salt
-● 1/2 Cup(s) unsalted nuts of choice, toasted
+* 2 Cup(s) sweetened coconut flake
+* 1 can coconut milk
+* 1 Teaspoon(s) cardamom powder
+* 1/4 Cup(s) jaggery or sugar of choice
+* pinch salt
+* 1/2 Cup(s) unsalted nuts of choice, toasted
 
 ## Directions
 1. In a food processor, pulse coconut until the flakes are small shreds.
