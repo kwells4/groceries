@@ -1,242 +1,314 @@
 # Quesadilla
-1/2 pepper, 1/2 onion for one dinner
+* 1/2 pepper
+* 1/2 onion for one dinner
 
 # Fajitas
-1 pepper 1 onion for 1 dinner. Spices: ginger, garlic, oregano, cumin, salt
+My personal recipe
+
+* 1 pepper
+* 1 onion for 1 dinner
+* chipotle
+* onion powder
+* garlic
+* oregano
+* cumin
+* salt
 
 # Mac n cheese
 make half batch
 
 # Calzone
-1/2 pepper 1/2 onion
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/food-network-kitchen/salami-mozzarella-calzone-recipe-1973823)
 
-# Chicken sausage peppers
-2 colored pepper 2 poblano pepper 
+* 1/2 pepper
+* 1/2 onion
 
 # Chimichangas
-1 onion 2 peppers
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/food-network-kitchen/almost-famous-chimichangas-recipe-1973452)
+
+* 1 onion 
+* 2 peppers
 
 # Taco pie
-1/2 pepper 
-1/2 onion 
+Modified from a recipe from Helen Wrasman
+
+* 1/2 pepper 
+* 1/2 onion 
 
 # Southwest salad
 double dressing, use full lime in dressing. Double spices and olive oil for potatoes. Keep salad and dressing separate for leftovers. 
 
 # Coconut tofu curry
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/panang-chicken-curry-7112932)
+
 ## Sauce
-fresh ginger (1-2 Tbs) 1 pepper 1 zucchini 1/2 onion 2 cans coconut milk
-Tamarind paste 1 Tbs vinegar 1 Tbs brown sugar 
+* fresh ginger (1-2 Tbs) 
+* 1 pepper 
+* 1 zucchini 
+* 1/2 onion 
+* 2 cans coconut milk
+* Tamarind paste (or 1 Tbs vinegar 1 Tbs brown sugar)
+* 3 Tbs curry
+* Maggi seasoning
+
 Add garlic and ginger with the onion
-3 Tbs curry
-Maggi seasoning 
+
+
 ## Tofu
-1Tbs sesame oil
-1 Tbs soy sauce
-Corn starch
+* 1Tbs sesame oil
+* 1 Tbs soy sauce
+* Corn starch
+
 Bake at 410 degrees 25 minutes 
 
 # Meatball sauce
-1 red pepper, 1 onion, basil, 28oz crushed tomatoes 
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/food-network-kitchen/spaghetti-and-turkey-meatballs-recipe-1973403)
+
+* 1 red pepper
+* 1 onion
+* basil
+* 28oz crushed tomatoes 
 
 # Mango tofu
+
 ## Ingredients
-1.5 onion
-ginger (1/8 cup + 1Tbs) 
-garlic (1/2 cup) 
-3 mango
-2tsp chili
-fresh basil
-1 lime
-some salt
+* 1.5 onion
+* ginger (1/8 cup + 1Tbs) 
+* garlic (1/2 cup) 
+* 3 mango
+* 2tsp chili
+* fresh basil
+* 1 lime
+* some salt
+
 ## Directions
 Sauté 1 copped onion with 1/4 cup garlic and 1 Tbs ginger. Blend with 2 mangos. Add juice of 1 lime and chili paste and 2 basil leaves. 
 For tofu: sauté 1/8 cup ginger and 1/4 cup garlic. When soft, sprinkle with dried basil, chili and cinnamon. Add 1Tbs pomegranate juice. Brown tofu. When browned coat with spice mixture. 
 Lightly sauté strips of 1/2 onion. Add fresh basil, tofu, sautéed onion and strips from 1 mango to the sauce. 
 
 # Corn chili
-2 potatoes
-2 cups broth 
+Modified from a [taste of home recipe](https://www.tasteofhome.com/recipes/creamy-white-chili/)
+
+* 2 potatoes
+* 2 cups broth 
 
 # Peach lettuce salad 
 https://www.loveandlemons.com/peach-salad-mint-pistachios/
 https://www.eatingwell.com/recipe/251174/green-salad-with-peaches-feta-mint-vinaigrette/
 
 # Nachos 
-1 pepper
-1 onion
+Modified from a [nacho food network recipe](https://www.foodnetwork.com/recipes/rachael-ray/super-nachos-recipe-1914057) (cheese sauce), a [guacamole food network recipe](https://www.foodnetwork.com/recipes/alton-brown/guacamole-recipe-1940609), and a [corn salsa food network recipe](https://www.foodnetwork.com/recipes/anne-burrell/corn-salsa-recipe-1922451)
+
+* 1 pepper
+* 1 onion
 
 #  Butter paneer
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/guy-fieri/taj-maholla-chicken-recipe-1951671)
+
 ## Paneer
-1 tsp gram masala
-1 tsp tikka masala
-1/4 c garlic
-1/8 c ginger
+* 1 tsp gram masala
+* 1 tsp tikka masala
+* 1/4 c garlic
+* 1/8 c ginger
 
 ## Sauce
-2 Tbs ginger 
-2 Tbs garlic
-3 Tbs gram masala 
-3Tbs tikka masala 
+* 2 Tbs ginger 
+* 2 Tbs garlic
+* 3 Tbs gram masala 
+* 3Tbs tikka masala 
 
 ## Salad
-1/2 onion
-1 cucumber 
-2 tomatoes 
-1 lemon
-Salt
-Mint
+* 1/2 onion
+* 1 cucumber 
+* 2 tomatoes 
+* 1 lemon
+* Salt
+* Mint
 
 # Kristen bowls 
-2 green chilies 
-2 peppers
-1 onion
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/food-network-kitchen/chicken-sausage-and-peppers-recipe-2118377)
+
+* 2 green chilies 
+* 2 peppers
+* 1 onion
+* 1/4 cup flower
+
 Double sauce 
-1/4 cup flour 
 
 # Breakfast burritos 
-1 onion
-1 pepper
-1 sausage
-6 eggs 
-1/2 onion and green chili for sauce
+My own creation
+
+* 1 onion
+* 1 pepper
+* 1 sausage
+* 6 eggs 
+* Chipotle
+* Garlic powder
+* Onion powder
+* Oregano
+* Salt
+* Pepper
+* Mexican cheese
+* Milk
+* 1/2 onion and green chili for sauce
 
 # Burrata appetizers 
-Spinach 
-Burrata
-Crusty bread 
-Balsamic 
-Tomato jam
-Cherry tomatoes 
+My own creation
+
+* Spinach 
+* Burrata
+* Crusty bread 
+* Balsamic 
+* Tomato jam
+* Cherry tomatoes 
 
 # Baked ziti
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/ree-drummond/baked-ziti-2312399)
+
 ## Marinara sauce
-- Crushed tomatoes 28oz
-- 1 onion
-- Garlic
-- Wine
-- Impossible sausage
-- Whole tomatoes 28oz
-- Garlic
-- Oregano
-- Basil
-- Parsley 
+* Crushed tomatoes 28oz
+* 1 onion
+* Garlic
+* Wine
+* Impossible sausage
+* Whole tomatoes 28oz
+* Garlic
+* Oregano
+* Basil
+* Parsley 
+
 Full recipe 
 
 # Cody burritos 
-1 potato
-1 onion
-1 pepper
-2 green chilies
-Black beans
-Pepper Jack cheese
+Cody's own creation
+
+* 1 potato
+* 1 onion
+* 1 pepper
+* 2 green chilies
+* Black beans
+* Pepper Jack cheese
+
 Top with green chili 
 Bake 10 min @350
 
 # Pad Thai
+Our own creation
+
 ## Tofu 
-2 peppers
-1 onion
-Carrot
-Cilantro
-Scallions
+* 2 peppers
+* 1 onion
+* Carrot
+* Cilantro
+* Scallions
+
 ## Sauce 
-Tamarind paste 2 Tbs vinegar 2 Tbs brown sugar 
-2 lime
-Magi seasoning a few drops
-Siracha 2 Tbs
-3 garlic
-Crazy Richards 1/2 cup
-Garnish
-Lime wedge 
+* Tamarind paste (or 2 Tbs vinegar 2 Tbs brown sugar)
+* 2 lime
+* Magi seasoning a few drops
+* Siracha 2 Tbs
+* 3 garlic
+* Crazy Richards 1/2 cup
+* Garnish
+* Lime wedge 
 
 # Salsa
-2 Green chilis
-7 Tomatos
-1 Onion
-1 Lime
-4 tomatillos 
-4 cloves garlic
-0.5 bunch cilantro
-Cumin 1/2 tsp
+* 2 Green chilis
+* 7 Tomatos
+* 1 Onion
+* 1 Lime
+* 4 tomatillos 
+* 4 cloves garlic
+* 0.5 bunch cilantro
+* Cumin 1/2 tsp
 
 Roast Garlic, onion, tomatillos and tomatos under broiler. Roast garlic in skin. 
 
 
 # Southwest Salad
+
 ## Dressing
-1/4 cup lime juice
-2 Garlic cloves
-1 bunch cilantro
-1/2 tsp salt
-1/2 tsp cumin
-1/4 tsp Chipotle
-2 tsp Maple Syrup
-1/4 cup Olive oil
-1 avocado
+* 1/4 cup lime juice
+* 2 Garlic cloves
+* 1 bunch cilantro
+* 1/2 tsp salt
+* 1/2 tsp cumin
+* 1/4 tsp Chipotle
+* 2 tsp Maple Syrup
+* 1/4 cup Olive oil
+* 1 avocado
 
 Add all except olive oil and avocado. Slowly add oil. Add avocado at end
 
 ## Salad
-Lettuce
-Jalapeño
-Corn
-Beans
-Tomatos
-Tortilla strips
-Avocado
-Parmesan cheese
+* Lettuce
+* Jalapeño
+* Corn
+* Beans
+* Tomatos
+* Tortilla strips
+* Avocado
+* Parmesan cheese
 
 
 # Broccoli and carrots 
-1 head broccoli 
-2 carrots
+Our own creation
+
+* 1 head broccoli 
+* 2 carrots
 
 Cut into small pieces, spread on baking sheet, drizzle with olive oil salt pepper. Cook 15 minutes at 425
 
 # Red chili
-28oz crushed tomatoes
-16oz fire roasted tomatoes
-28oz chili beans
-1 package soyrizo
+Modified from a recipe from Cheryl Wells
+
+* 28oz crushed tomatoes
+* 16oz fire roasted tomatoes
+* 28oz chili beans
+* 1 package soyrizo
 
 Cook 4 hours in crock pot, add plant crumbles 1 hour before end (or just cook on stove top…)
 
 # Brownies
-1/2 batch
-375 degrees, 20 + 20 minutes 
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/ina-garten/outrageous-brownies-recipe3-1916679)
+
+* 1/2 batch
+* 375 degrees, 20 + 20 minutes 
 
 # Roasted garlic
-1 hour at 350
+* 1 hour at 350
+
 Cut off top, drizzle with olive oil 
 
 # Aunt barb salad
-Arugula 
-Strawberries 
-1/2 diced shallot
-Candied pecans 
-3 tbs orange olive oil 
-3 tbs pomegranate vinegar
-1.5 tbs honey
+Modified from a recipe from Zionsville Olive Oil
+
+* Arugula 
+* Strawberries 
+* 1/2 diced shallot
+* Candied pecans 
+* 3 tbs orange olive oil 
+* 3 tbs pomegranate vinegar
+* 1.5 tbs honey
 
 # Malai Kofta
 https://sandhyahariharan.co.uk/baked-malai-kofta-curry/
 
 ## Gravy
-2 Onions
-4 cloves garlic
-2 chilies - take out contacts before cutting
-1 inch ginger
-1 cup water
+* 2 Onions
+* 4 cloves garlic
+* 2 chilies - take out contacts before cutting
+* 1 inch ginger
+* 1 cup water
 
 Boil 10-15 minutes, then blend after slightly cooling
 
-3 tomatos - Puree
+* 3 tomatos - Puree
 
-3 cloves
-5 cardamom
-1 bay leaf
-1 cinnamon stick
+* 3 cloves
+* 5 cardamom
+* 1 bay leaf
+* 1 cinnamon stick
 
 Roast in 2 tbs butter and 1 tbs olive oil
 
@@ -248,42 +320,44 @@ Add in 1 tsp Kasuri Methi and some cream
 Garnish with cilantro
 
 ## Kofta
-1 block paneer
-2 large potatoes - Grate with small grater
-Double the spices
-Add a little more salt
+* 1 block paneer
+* 2 large potatoes - Grate with small grater
+* Double the spices
+* Add a little more salt
 
 Cook 15 minutes per side 400-450
 
 # Cornbread 
+Modified from a [recipe from food network](https://www.foodnetwork.com/recipes/ina-garten/jalapeno-cheddar-cornbread-recipe-1948386)
 Half batch
 Bake at 400 degrees for 45 minutes 
 
 # Hailey rice
+Modified from a recipe from Home Chef
 
 ## Ingredients
-1 pepper
-1 onion
-1 Anaheim chili
-Cauliflower
-Parsley
-Cilantro
-Garlic
-1.5 cubes not chicken bouillon
-Adobo seasoning
-Chickpeas 
-3 Tbs Harissa spread 
-Fire roasted tomatoes 8 oz
+* 1 pepper
+* 1 onion
+* 1 Anaheim chili
+* Cauliflower
+* Parsley
+* Cilantro
+* Garlic
+* 1.5 cubes not chicken bouillon
+* Adobo seasoning
+* Chickpeas 
+* 3 Tbs Harissa spread 
+* Fire roasted tomatoes 8 oz
 
 ## Adobo seasoning
-2 Tbs salt
-1 Tbs paprika
-2 tsp black pepper
-1.5 tsp onion powder
-1.5 tsp oregano
-1.5 tsp cumin
-1 tsp garlic powder
-1 tsp chili powder
+* 2 Tbs salt
+* 1 Tbs paprika
+* 2 tsp black pepper
+* 1.5 tsp onion powder
+* 1.5 tsp oregano
+* 1.5 tsp cumin
+* 1 tsp garlic powder
+* 1 tsp chili powder
 
 ## Sauce
 Cut pepper, onion, chili. Add to pan with olive oil and sautéed until soft
@@ -298,11 +372,12 @@ Add 0.5 tsp adobo seasoning to each bowl
 Top rice with sauce, a few spoonfuls of sour cream and coarsely chopped cilantro and serve
 
 # Paneer vindaloo
+Recipe from Sara Lanter
 
 ## Paneer
 
 ### Marinade
-12 oz paneer, cubed (or 14 oz canned chickpeas, drained)
+* 12 oz paneer, cubed (or 14 oz canned chickpeas, drained)
 * 1/2 Tablespoon(s) ground coriander
 * 1/2 Tablespoon(s) ground cumin
 * 1/2 Tablespoon(s) Kashmiri chili powder
