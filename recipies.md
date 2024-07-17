@@ -540,3 +540,79 @@ or until the moisture is evaporated/absorbed (except for the fat from the coconu
 milk). Cool to room temperature, then transfer mixture to the fridge for at least 1
 hour.
 4. Add in toasted nuts. Roll into balls, then roll/coat in remaining coconut shreds.
+
+
+# Pasta with Summer Squash
+By Michael Anthony 
+Published on June 20, 2024
+Tested by Jasmine Smith 
+
+
+* 9 small Gold Bar or summer squash (about 2 3/4 pounds), divided
+* 1/4 cup plus 3 tablespoons extra-virgin olive oil, plus more for drizzling, divided
+* 1 large white onion, thinly sliced (about 2 cups)
+* 2 large carrots, peeled and thinly sliced (about 1 1/2 cups)
+* 6 garlic cloves, sliced (about 1/4 cup)
+* 1 tablespoon water (optional)
+* 4 cups vegetable broth 
+* 1 (8-ounce) beefsteak tomato, chopped (about 1 1/2 cups)
+* 1 teaspoon kosher salt, divided
+* 12 ounces lumache or other short pasta such as conchiglie, penne, or ziti
+* 12 ounces fresh Mexican chorizo
+* 1/4 cup torn fresh basil, plus more for garnish
+* Finely chopped fresh chives
+* Grated Grana Padano cheese
+* Aleppo pepper
+
+## Directions
+1. Halve 5 squash lengthwise; thinly slice each half into half-moons, and set aside, reserving 1/2 cup for garnish. Thinly slice remaining 4 squash. 
+2. Heat 2 tablespoons oil in a medium stockpot over medium. Add onion; cook, stirring often, until soft and translucent, about 5 minutes. Add carrots, garlic, and thinly sliced squash; cook, stirring occasionally, until softened, about 10 minutes. Add 1 tablespoon water, if needed, to avoid browning. Add broth and chopped tomato. Bring mixture to a boil over high; reduce heat to medium-low, and gently simmer, stirring occasionally, until liquid reduces by three-fourths, 35 to 40 minutes. (You will have about 1 1/2 cups.) 
+3. Transfer squash mixture to a blender; secure lid on blender, and remove center piece to allow steam to escape. Place a clean towel over opening; process until mixture is very smooth and creamy, about 1 minute. Remove towel; slowly add 1/4 cup oil, processing until well combined, about 15 seconds. Pour sauce through a fine wire-mesh strainer into a bowl. Sprinkle with 1/2 teaspoon salt; set aside.
+4. Bring a large pot of salted water to a boil over high. Add pasta, and cook according to package directions for al dente. Drain, reserving 3/4 cup cooking liquid; set pasta and reserved cooking liquid aside.
+5. Meanwhile, heat a large nonstick skillet over medium. Add chorizo; cook, stirring occasionally to break up into small pieces, until browned and cooked through, 5 to 8 minutes. Transfer chorizo to a plate, and set aside; reserve drippings in skillet. Add remaining 1 tablespoon oil to drippings in skillet; heat over medium-high. Add squash half-moons and remaining 1/2 teaspoon salt; cook, stirring often, until tender, 6 to 8 minutes.
+6. Reduce heat to medium; add reserved pasta, blended squash mixture, chorizo, and 1/4 cup reserved pasta cooking liquid. Cook over medium, stirring constantly, until sauce thickens to lightly coat pasta, about 3 minutes. (Add up to 1/2 cup remaining cooking liquid as needed to thin sauce.) Remove from heat, and fold in torn basil leaves. Serve pasta garnished with reserved 1/2 cup squash half-moons, additional basil leaves, chives, cheese, Aleppo pepper, and a drizzle of olive oil. 
+
+# White bread
+
+Modified from [a tastes better from scratch recipe](https://tastesbetterfromscratch.com/bread-recipe/)
+
+* 2 cups water
+* 1 Tbs yeast
+* 1/4 cup sugar
+* 2 tsp salt
+* 2 Tbs canola oil
+* Flour
+
+1. Add water, yeast and some sugar. Let set for 10 min
+2. Add sugar, salt, oil. Mix
+3. Slowly add flour
+4. Let rise for a couple of hours
+5. Make into loaves
+6. Rise in oven 20 min at 170
+7. Cook at 350 (time? 30-33 min, add time for preheat so start around 40?)
+
+# Tortellini saladd
+
+* 1 pound fresh or frozen cheese tortellini, preferably whole-wheat
+* 1 cup cherry tomatoes, halved
+* 1 14-ounce can artichoke hearts, rinsed and quartered
+* 1 red pepper, chopped
+* 4 scallions, coarsely chopped
+* ½ cup finely chopped fresh basil
+* ⅛ teaspoon salt
+* Freshly ground pepper, to taste
+* Arugula, for serving (optional)
+* 2 ripe tomatoes, halved and seeded
+* 2 tablespoons red-wine vinegar
+* 1 tablespoon extra-virgin olive oil
+* 1 teaspoon dried oregano
+* 1 clove garlic, minced
+* ⅛ teaspoon salt
+* Freshly ground pepper, to taste
+
+## Directions
+1. Bring a large pot of water to a boil. Cook tortellini until just tender, 8 to 12 minutes or according to package directions. Drain and rinse under cold water. Transfer to a large bowl.
+2. Add the cherry tomatoes to the tortellini along with artichoke hearts, red peppers, scallions, and basil. Season with salt and pepper.
+3. To prepare Tomato Vinaigrette: Working over a bowl, rub tomato halves on the large-holed side of a box grater until only the skins remain. Discard the skins. Add vinegar, oil, oregano, garlic, salt and pepper to the tomato juice and whisk until blended.
+4. Add the Tomato Vinaigrette to the tortellini salad and toss. Serve the salad on a bed of arugula, if desired.
+
