@@ -593,6 +593,8 @@ Modified from [a tastes better from scratch recipe](https://tastesbetterfromscra
 
 # Tortellini saladd
 
+Modified from [eating well recipe](https://www.eatingwell.com/recipe/248484/tortellini-salad/)
+
 * 1 pound fresh or frozen cheese tortellini, preferably whole-wheat
 * 1 cup cherry tomatoes, halved
 * 1 14-ounce can artichoke hearts, rinsed and quartered
@@ -616,3 +618,31 @@ Modified from [a tastes better from scratch recipe](https://tastesbetterfromscra
 3. To prepare Tomato Vinaigrette: Working over a bowl, rub tomato halves on the large-holed side of a box grater until only the skins remain. Discard the skins. Add vinegar, oil, oregano, garlic, salt and pepper to the tomato juice and whisk until blended.
 4. Add the Tomato Vinaigrette to the tortellini salad and toss. Serve the salad on a bed of arugula, if desired.
 
+# Sesame tofu
+
+*Tofu*
+* 3 Tbs soy sauce
+* 2 tsp sesame oil
+* 2 tsp honey
+* Tofu
+
+*Sauce*
+* 2 cups broth
+* 1 cup water
+* 4 Tbs sugar
+* 2 Tbs rice vinegar
+* 3 Tbs soy sauce
+* 8 tsp cornstarch
+* 3 tsp chili paste
+* Garlic
+* Ginger
+* 4 tsp sesame oil
+
+## Directions
+1. Press tofu
+2. Wisk ingredients for the tofu. 
+3. Cut tofu into small pieces and toss with the tofu sauce, marinate for 20 minutes
+4. Mix all ingredients for the sauce except garlic, ginger, and sesame oil
+5. Saute tofu in a skillet until well browned
+6. Saute garlic and ginger with oil. Add the rest of the sauce and cook until thickened.  Add the seasme oil and tofu. 
+7. Serve with cooked carrots and broccoli
