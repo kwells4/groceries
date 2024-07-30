@@ -34,7 +34,7 @@ Sour cream: 0.5
 Flour tortillas (large): 1
 Pepper jack cheese: 1
 Beans: 1
-Green chiles: 2
+Green chilies: 2
 
 Other Ingredients:
 Butter: 2
@@ -616,7 +616,7 @@ Zucchini: 1
 Summer squash: 1
 Onion: 0.5
 Cream: 0.5
-Parmesan: 0.25
+Parmesan cheese: 0.25
 Frozen peas: 0.25
 Asparagus: 1
 
@@ -1012,6 +1012,25 @@ Other Ingredients:
 Garlic: 3
 Harissa spread: 0.1
 Veggie broth: 1.5
+
+Name:
+Lori bowls
+
+Main Ingredients:
+Zucchini: 4
+Summer squash: 5
+Onion: 1
+Carrot: 2
+Tomato: 2
+Penne pasta: 0.5
+Pepper: 1
+
+Other Ingredients:
+Garlic: 6
+Veggie broth: 2
+Basil: 0.25
+Chives: 0.25
+Parmesan cheese: 0.25
 
 Name:
 Breakfast burrito
