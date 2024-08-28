@@ -589,7 +589,7 @@ Modified from [a tastes better from scratch recipe](https://tastesbetterfromscra
 4. Let rise for a couple of hours
 5. Make into loaves
 6. Rise in oven 20 min at 170
-7. Cook at 350 (time? 30-33 min, add time for preheat so start around 40?)
+7. Cook at 365 for 35 minutes (40 was a bit too long)
 
 # Tortellini saladd
 
