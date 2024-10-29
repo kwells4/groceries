@@ -323,8 +323,8 @@ Taco pie
 Main Ingredients:
 Soyrizo: 1
 Dough sheet: 1
-Pepper: 0.5
-Onion: 0.5
+Pepper: 1
+Onion: 1
 Tomato: 1
 Sour cream: 0.25
 
@@ -1063,6 +1063,20 @@ Pepper jack cheese: 1
 
 Other Ingredients:
 Eggs: 4
+
+Name:
+Scrambled eggs
+
+Main Ingredients:
+Green chilies: 2
+Pepper: 0.5
+Onion: 0.5
+Morning star breakfast sausage: 1
+Milk: 0.25
+
+Other Ingredients:
+Eggs: 5
+Mexican cheese: 0.25
 
 Name:
 Omelette

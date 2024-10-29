@@ -542,7 +542,7 @@ hour.
 4. Add in toasted nuts. Roll into balls, then roll/coat in remaining coconut shreds.
 
 
-# Pasta with Summer Squash
+# Pasta with Summer Squash (Lorax bowls)
 By Michael Anthony 
 Published on June 20, 2024
 Tested by Jasmine Smith 
