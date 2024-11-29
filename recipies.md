@@ -646,3 +646,12 @@ Modified from [eating well recipe](https://www.eatingwell.com/recipe/248484/tort
 5. Saute tofu in a skillet until well browned
 6. Saute garlic and ginger with oil. Add the rest of the sauce and cook until thickened.  Add the seasme oil and tofu. 
 7. Serve with cooked carrots and broccoli
+
+# Sandwich sauce
+
+* Mayo
+* Cayanne
+* Chipotle
+* Garlic
+* Honey
+* White wine vinegar
