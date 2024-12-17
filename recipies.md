@@ -520,7 +520,7 @@ each pakora. Do not overcrowd the pan. Flip pakoras once the bottom side is over
 golden brown, then cook until the color is the same all around. Place on a wire rack
 to keep crisp.
 5. Air-frying: Roll the pakora mixture into 1- 1½ inch balls. Spray with (or roll in) oil and
-air fry at 390 degrees F for about 20 minutes (flipping a little over halfway through
+air fry at 390 degrees F for about 15 minutes (flipping a little over halfway through
 cooking time).
 
 # Coconut ladoo
