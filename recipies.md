@@ -619,6 +619,8 @@ Modified from [eating well recipe](https://www.eatingwell.com/recipe/248484/tort
 4. Add the Tomato Vinaigrette to the tortellini salad and toss. Serve the salad on a bed of arugula, if desired.
 
 # Sesame tofu
+Modified from a [food network recipe](https://www.foodnetwork.com/recipes/food-network-kitchen/sesame-chicken-with-snow-peas-recipe-2105095)
+
 
 *Tofu*
 * 3 Tbs soy sauce
@@ -639,6 +641,7 @@ Modified from [eating well recipe](https://www.eatingwell.com/recipe/248484/tort
 * 4 tsp sesame oil
 
 ## Directions
+
 1. Press tofu
 2. Wisk ingredients for the tofu. 
 3. Cut tofu into small pieces and toss with the tofu sauce, marinate for 20 minutes
@@ -655,3 +658,19 @@ Modified from [eating well recipe](https://www.eatingwell.com/recipe/248484/tort
 * Garlic
 * Honey
 * White wine vinegar
+
+# Toum (Lebanese garlic sauce)
+Modified from [online recipe](https://feelgoodfoodie.net/recipe/lebanese-garlic-sauce/)
+
+* 1 cup garlic cloves peeled
+* 2 tsp Kosher salt
+* 3 cups vegetable oil
+* 1/2 cup lemon juice
+
+## Directions
+
+1. Transfer garlic into a food processor and add salt. Process for a minute until the garlic becomes finely minced. Scrape down the sides of the food processor afterwards
+2. Slowly add oil, 1-2 Tbs at a time. Keep scraping down the sides of the food processor. Continue adding until garlic starts looking creamy
+3. Once it looks creamy, increase the speed of adding oil and alternate with adding small amounts of the lemon juice.
+4. Transfer sauce into a class container and cover with a paper towel in the fridge overnight.
+5. Replace towel with airtight lid. Can be stored for 3 months.
