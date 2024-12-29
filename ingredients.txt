@@ -386,6 +386,27 @@ Garam masala: 0.1
 Rice: 0.1
 
 Name:
+Palak paneer
+
+Main Ingredients:
+Paneer: 2
+Spinach: 5
+Onion: 1.5
+Ginger: 2
+Tomato: 2
+Indian green chili: 2
+Cream: 1.5
+Lemon: 1
+
+Other Ingredients:
+Ghee: 0.1
+Rice: 0.1
+Fenugreek seeds: 0.1
+Ground cumin: 0.1
+Ground coriander: 0.1
+Garlic: 2
+
+Name:
 Malai Kofta
 
 Main Ingredients:
@@ -1047,6 +1068,21 @@ Milk: 0.25
 Other Ingredients:
 Eggs: 6
 Mexican cheese: 0.25
+
+Name:
+Breakfast Potatos
+
+Main Ingredients:
+Small potatos:6
+
+Other Ingredients:
+Basil: 0.1
+Onion powder: 0.1
+Garlic powder: 0.1
+Oregano: 0.1
+Salt: 0.1
+Pepper: 0.1
+Olive oil: 0.1
 
 Name:
 Huevos rancheros

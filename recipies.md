@@ -59,7 +59,7 @@ Add garlic and ginger with the onion
 * 1 Tbs soy sauce
 * Corn starch
 
-Bake at 410 degrees 25 minutes 
+Bake at 410 degrees 25 minutes or air fry at 400 for 10-15 minutes
 
 # Meatball sauce
 Modified from a [food network recipe](https://www.foodnetwork.com/recipes/food-network-kitchen/spaghetti-and-turkey-meatballs-recipe-1973403)
@@ -125,6 +125,37 @@ Modified from a [food network recipe](https://www.foodnetwork.com/recipes/guy-fi
 * Salt
 * Mint
 
+# Palak Paneer
+Modified from [recipetineats](https://www.recipetineats.com/palak-paneer-indian-spinach-curry-with-cheese/)
+
+* 5 bunches spinach
+* 1.5 Onions
+* 1 tsp fenugreek seeds
+* 1 tsp ground cumin
+* 1 tsp ground coriander
+* 0.75 tsp salt
+* 0.25 tsp pepper
+* 2 cloves garlic
+* 2 tsp ginger
+* 2 tomatos
+* 2 green indian chilies
+* 0.25 cup water
+* 0.3 cup + 1 Tbsp cream
+* 1 Tbsp lemon juice
+* Ghee
+* Rice
+
+1. Melt ghee in large pot over medium heat. Add onion, fenugreek, cumin, corriander, salt and pepper. Cook until onion is soft but not golden.
+2. Add garlic and ginger, cook 2 minutes
+3. Add tomato and chili, cook for the minutes
+4. Add spinach slowly and stir until wilted. Add water as you add spinach. Repeat until all spinach is wilted.
+5. Cook 10 minutes, stirring occasionally.
+6. Add cream and lemon juice. Cook while stirring 3 minutes.
+7. Puree half the spinach. Combine pureed spinach with the rest of the spinach
+8. Cook the paneer in another pot in the ghee until golden
+9. Combine paneer and spinach
+10. Serve over rice
+
 # Kristen bowls 
 Modified from a [food network recipe](https://www.foodnetwork.com/recipes/food-network-kitchen/chicken-sausage-and-peppers-recipe-2118377)
 
@@ -151,6 +182,24 @@ My own creation
 * Mexican cheese
 * Milk
 * 1/2 onion and green chili for sauce
+
+# Breakfast Potatos
+Modified from [delish](https://www.delish.com/cooking/recipe-ideas/a28414561/air-fryer-potatoes-recipe/)
+
+* 6-10 potatos
+* Basil
+* Garlic powder
+* Onion powder
+* Oregano
+* Salt 
+* Pepper
+* Olive oil
+
+1. Cut up potatos into small bite sized pieces
+2. Sprinkle on all spices
+3. Coat with a small amount of olive oil
+4. Mix together
+5. Air fry at 400 degrees for 15-20 minutes, shaking and stirring half way through
 
 # Burrata appetizers 
 My own creation
@@ -646,7 +695,7 @@ Modified from a [food network recipe](https://www.foodnetwork.com/recipes/food-n
 2. Wisk ingredients for the tofu. 
 3. Cut tofu into small pieces and toss with the tofu sauce, marinate for 20 minutes
 4. Mix all ingredients for the sauce except garlic, ginger, and sesame oil
-5. Saute tofu in a skillet until well browned
+5. Saute tofu in a skillet until well browned or at 400 for 10-15 minutes
 6. Saute garlic and ginger with oil. Add the rest of the sauce and cook until thickened.  Add the seasme oil and tofu. 
 7. Serve with cooked carrots and broccoli
 
