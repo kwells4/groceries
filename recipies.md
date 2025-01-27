@@ -723,3 +723,24 @@ Modified from [online recipe](https://feelgoodfoodie.net/recipe/lebanese-garlic-
 3. Once it looks creamy, increase the speed of adding oil and alternate with adding small amounts of the lemon juice.
 4. Transfer sauce into a class container and cover with a paper towel in the fridge overnight.
 5. Replace towel with airtight lid. Can be stored for 3 months.
+
+# Peanut sauce stir fry
+https://cozypeachkitchen.com/peanut-stir-fry-sauce/
+
+* 2 Pepper
+* 2 Onion
+* 2 Broccoli
+* 2 Carrot
+* 1 1/3 cup Peanut butter 
+* 6 Tbs soy sauce
+* 8 Tbs rice vinegar
+* 2 Tbs chili sauce
+* 4 tsp sesame oil
+* Water
+* Rice
+
+1. Cut carrot and coat with olive oil. Roast in air fryer 20 minutes at 390
+2. Cut broccoli and coat with olive oil. Roas in air fryer 10 minutes at 390
+3. Cut and sautee pepper and onion together
+4. Mix peanut butter, soy sace, rice vinegar, chili, sesame oil and heat slightly. Thin with water
+5. Combine all vegetables with the sauce

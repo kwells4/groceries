@@ -233,6 +233,22 @@ Parmesan cheese: 0.25
 Mozzarella cheese: 0.1
 
 Name:
+Peanut sauce stir fry
+
+Main Ingredients:
+Pepper: 2
+Onion: 2
+Broccoli: 2
+Carrot: 4
+
+Other Ingredients:
+Peanut butter: 0.25
+Soy sauce: 0.1
+Rice vinegar: 0.1
+Garlic chili sauce: 0.1
+Sesame oil: 6
+
+Name:
 Kristen pizza
 
 Main Ingredients:
@@ -1073,7 +1089,7 @@ Name:
 Breakfast Potatos
 
 Main Ingredients:
-Small potatos:6
+Small potatos: 6
 
 Other Ingredients:
 Basil: 0.1
