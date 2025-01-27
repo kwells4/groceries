@@ -736,6 +736,7 @@ https://cozypeachkitchen.com/peanut-stir-fry-sauce/
 * 8 Tbs rice vinegar
 * 2 Tbs chili sauce
 * 4 tsp sesame oil
+* Tofu
 * Water
 * Rice
 

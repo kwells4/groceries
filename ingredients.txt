@@ -240,6 +240,7 @@ Pepper: 2
 Onion: 2
 Broccoli: 2
 Carrot: 4
+Tofu: 1
 
 Other Ingredients:
 Peanut butter: 0.25
