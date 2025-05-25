@@ -302,6 +302,19 @@ Flour: 1.5
 Mozzarella cheese: 0.25
 
 Name:
+Buratta pizza
+
+Main Ingredients:
+Buratta: 1
+Cherry tomatos: 1
+Tomato sauce: 4
+Arugula: 1
+
+Other Ingredients:
+Garlic: 4
+Flour: 1.5
+
+Name:
 Spaghetti squash and potatoes
 
 Main Ingredients:
@@ -570,6 +583,26 @@ Tortilla strips: 0.25
 Other Ingredients:
 Corn: 0.25
 Garlic: 2
+
+Name:
+Mad greens salad
+
+Main Ingredients:
+Lettuce: 1
+Avocado: 1
+Mango: 1
+Jack cheese: 0.5
+Ginger: 1
+Tofu: 1
+
+Other Ingredients:
+Corn: 0.25
+Pumpkin seeds: 0.1
+Tahini: 0.1
+Sesame oil: 0.1
+Rice vinegar: 0.1
+Tamari: 0.1
+Maple syrup: 0.1
 
 Name:
 Cornbread

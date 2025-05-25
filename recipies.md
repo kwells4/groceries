@@ -299,6 +299,34 @@ Add all except olive oil and avocado. Slowly add oil. Add avocado at end
 * Avocado
 * Parmesan cheese
 
+# Mad greens salad
+
+## Dressing
+From [love and lemons](https://www.loveandlemons.com/sesame-ginger-dressing/#wprm-recipe-container-54374)
+* 3 Tbs smooth tahini
+* 2 tsp toasted sesame oil
+* 2 tsp rice vinegar
+* 1 Tbs tamari
+* 2 tsp grated ginger
+* 1 tsp maple syrup
+* 1-3 Tbs water
+
+1. In a small bowl, whisk together the tahini, sesame oil, vinegar, tamari, ginger, maple syrup, and 1 tablespoon water until smooth.
+2. If the dressing is too thick, add an additional 1 to 2 tablespoons water until it’s a drizzleable consistency.
+
+## Salad
+* 2 cups roasted corn 
+* 1 Avocado
+* Lettuce
+* Pumpkin seeds
+* 1 Mango
+* Shredded jack cheese
+* Tofu
+
+1. Dry out corn and toss with oil. Roast in oven at 450. Cook 5-10 minutes, stirring ocassionally. Described [here](https://thecompletesavorist.com/how-to-roast-frozen-corn)
+2. Season and air fry tofu with salt, chipolte, garlic powder, onion powder. Air fry for 10-15 minutes at 400 degrees.
+3. Slice and cube avocado and mango. 
+4. Combine tofu, corn, pumpkin seeds, mango, shredded cheese, avocado, lettuce, and dressing. Toss to combine.
 
 # Broccoli and carrots 
 Our own creation
@@ -721,7 +749,7 @@ Modified from [online recipe](https://feelgoodfoodie.net/recipe/lebanese-garlic-
 1. Transfer garlic into a food processor and add salt. Process for a minute until the garlic becomes finely minced. Scrape down the sides of the food processor afterwards
 2. Slowly add oil, 1-2 Tbs at a time. Keep scraping down the sides of the food processor. Continue adding until garlic starts looking creamy
 3. Once it looks creamy, increase the speed of adding oil and alternate with adding small amounts of the lemon juice.
-4. Transfer sauce into a class container and cover with a paper towel in the fridge overnight.
+4. Transfer sauce into a glass container and cover with a paper towel in the fridge overnight.
 5. Replace towel with airtight lid. Can be stored for 3 months.
 
 # Peanut sauce stir fry
@@ -745,3 +773,91 @@ https://cozypeachkitchen.com/peanut-stir-fry-sauce/
 3. Cut and sautee pepper and onion together
 4. Mix peanut butter, soy sace, rice vinegar, chili, sesame oil and heat slightly. Thin with water
 5. Combine all vegetables with the sauce
+
+# Cauliflower wings
+Modified from [a fork in the kitchen recipe](https://www.forkinthekitchen.com/crispy-buffalo-cauliflower-bites/)
+
+## Interedients
+
+* 1 head califlower
+* Panko bread crumbs
+* 3 eggs
+* Corn starch
+* Onion powder
+* Garlic powder
+* Salt
+* Pepper
+
+## Directions
+1. Cut the califlower into bite sized pieces
+2. Mix 1 egg with 1 Tbs water (replinish as needed)
+3. Mix Panko bread crumbs with onion powder, garlic powder, salt and pepper
+4. Coat califlower in corn starch, followed by egg mixture, followed by panko mixture
+5. Airfry for 8 minutes at 400 degress. One head of califlower was 5 rounds in the air fryer.
+
+# BBQ sauce
+Modified from a [love and lemons recipe](https://www.loveandlemons.com/bbq-sauce-recipe/#wprm-recipe-container-70829)
+
+## Ingredients
+* 3/4 cup ketchup
+* 1/4 cup apple cider vinegar
+* 1/4 cup water
+* 1/8 cup brown sugar
+* 1/8 cup tamari
+* 1/2 tsp garlic powder
+* 1 Tbs yellow mustard
+* 1/2 tsp cumin
+* 1/2 tsp onion powder
+* 1/2 tsp paprika
+
+## Directions
+1. Mix all ingredients together in a sauce pan
+2. Bring to a boil
+3. Boil on low, stirring often for 20 minutes
+
+# Teriaki sauce 
+Modified from a [daring gormet recipe](https://www.daringgourmet.com/homemade-teriyaki-sauce/#recipe)
+
+## Ingredients
+* 1/2 cup tamari
+* 1/4 cup brown sugar
+* 1.5 tsp fresh ginger (we used closer to 3-4)
+* 1 tsp minced garlic
+* 1 Tbs honey
+* 1 tsp sesame oil
+* 3 Tbs cooking sherry
+* 1/4 cup water mixed with 3 teaspoons cornstarch
+
+## Directions
+1. Combine all ingredients
+2. Bring to a boil. Simmer for 4 minutes.
+
+
+# Mad greens salad
+
+## Sauce
+Modified from a [love and lemons recipe](https://www.loveandlemons.com/sesame-ginger-dressing/#wprm-recipe-container-54374)
+
+* 3 Tbs tahini
+* 2 Tbs sesame oil
+* 2 Tbs rice vinegar
+* 1-2 tsb fresh ginger
+* 1 tsb maple syrup
+* 1-3 Tbs water
+
+1. Wisk all ingredients together until smooth
+
+## Salad
+* Giant ceaser lettuce
+* 1 Mango
+* 1 Avocaco
+* 2 cups corm
+* Firm tofu
+
+1. Thaw and dry the corn
+2. Toss the corn with oil, salt, and vinegar
+3. Bake at 400 degrees for 10 minutes, toss at 5 minutes
+4. Press the tofu and cut into bite sized pieces
+5. Toss with oil, chipolte, cumin, and cayenne pepper. Air fry at 400 degrees for 13 minutes
+6. Chop mango and avocado
+7. Mix all pieces and toss with the dressing
